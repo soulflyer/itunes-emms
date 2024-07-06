@@ -1,0 +1,4 @@
+{:paths ["src/clj"]
+ :deps {org.clojure/data.zip {:mvn/version "1.1.0"}
+        com.rpl/specter {:mvn/version "1.1.4"}
+        com.github.bdesham/clj-plist {:mvn/version "0.10.0"}}}

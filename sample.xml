@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Major Version</key><integer>1</integer>
+    <key>Minor Version</key><integer>1</integer>
+    <key>Date</key><date>2023-11-23T12:05:45Z</date>
+    <key>Application Version</key><string>12.9.5.5</string>
+    <key>Features</key><integer>5</integer>
+    <key>Music Folder</key><string>file:///Users/iain/Music/Collection/</string>
+    <key>Library Persistent ID</key><string>54159FD17A9AB7F4</string>
+    <key>Tracks</key>
+    <dict>
+      <key>4985</key>
+      <dict>
+	<key>Track ID</key><integer>4985</integer>
+	<key>Name</key><string>To Get Down</string>
+	<key>Artist</key><string>Timo Maas</string>
+	<key>Album</key><string>Loud</string>
+	<key>Genre</key><string>Electronica/Dance</string>
+        <key>Year</key><integer>2001</integer>
+        <key>Play Count</key><integer>21</integer>
+        <key>Rating</key><integer>60</integer>
+        <key>Track Type</key><string>File</string>
+	<key>Location</key><string>file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3</string>
+      </dict>
+      <key>4987</key>
+      <dict>
+	<key>Track ID</key><integer>4987</integer>
+	<key>Name</key><string>The Lark</string>
+	<key>Artist</key><string>Moving Hearts</string>
+	<key>Album</key><string>The Storm</string>
+	<key>Genre</key><string>Celtic</string>
+        <key>Year</key><integer>1985</integer>
+        <key>Play Count</key><integer>4</integer>
+        <key>Rating</key><integer>100</integer>
+        <key>Track Type</key><string>File</string>
+	<key>Location</key><string>file:///Users/iain/Music/Collection/MovingHearts/The%20Storm/01%20The%20Lark.mp3</string>                        
+      </dict>
+    </dict>
+  </dict>
+</plist>
