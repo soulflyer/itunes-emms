@@ -11,6 +11,109 @@
     <key>Library Persistent ID</key><string>54159FD17A9AB7F4</string>
     <key>Tracks</key>
     <dict>
+      <key>4989</key>
+      <dict>
+        <key>Track ID</key><integer>4989</integer>
+        <key>Name</key><string>The Titanic</string>
+        <key>Artist</key><string>Moving Hearts</string>
+        <key>Album</key><string>The Storm</string>
+        <key>Genre</key><string>Celtic</string>
+        <key>Kind</key><string>MPEG audio file</string>
+        <key>Size</key><integer>7081125</integer>
+        <key>Total Time</key><integer>332460</integer>
+        <key>Track Number</key><integer>2</integer>
+        <key>Track Count</key><integer>6</integer>
+        <key>Year</key><integer>1985</integer>
+        <key>BPM</key><integer>137</integer>
+        <key>Date Modified</key><date>2020-02-05T14:02:43Z</date>
+        <key>Date Added</key><date>2002-07-17T07:27:47Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>2</integer>
+        <key>Play Date</key><integer>3663857235</integer>
+        <key>Play Date UTC</key><date>2020-02-06T11:07:15Z</date>
+        <key>Rating</key><integer>80</integer>
+        <key>Album Rating</key><integer>100</integer>
+        <key>Normalization</key><integer>908</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album</key><string>Storm</string>
+        <key>Sort Name</key><string>Titanic</string>
+        <key>Persistent ID</key><string>4063538640D41D24</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file:///Users/iain/Music/Collection/MovingHearts/The%20Storm/02%20The%20Titanic.mp3</string>
+        <key>File Folder Count</key><integer>4</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>4991</key>
+      <dict>
+        <key>Track ID</key><integer>4991</integer>
+        <key>Name</key><string>The Storm</string>
+        <key>Artist</key><string>Moving Hearts</string>
+        <key>Album</key><string>The Storm</string>
+        <key>Genre</key><string>Celtic</string>
+        <key>Kind</key><string>MPEG audio file</string>
+        <key>Size</key><integer>5523703</integer>
+        <key>Total Time</key><integer>254589</integer>
+        <key>Track Number</key><integer>3</integer>
+        <key>Track Count</key><integer>6</integer>
+        <key>Year</key><integer>1985</integer>
+        <key>BPM</key><integer>117</integer>
+        <key>Date Modified</key><date>2020-02-05T14:02:43Z</date>
+        <key>Date Added</key><date>2002-07-17T07:28:22Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>26</integer>
+        <key>Play Date</key><integer>3757187163</integer>
+        <key>Play Date UTC</key><date>2023-01-21T16:06:03Z</date>
+        <key>Skip Count</key><integer>1</integer>
+        <key>Skip Date</key><date>2018-05-07T08:21:14Z</date>
+        <key>Rating</key><integer>100</integer>
+        <key>Album Rating</key><integer>100</integer>
+        <key>Normalization</key><integer>909</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album</key><string>Storm</string>
+        <key>Sort Name</key><string>Storm</string>
+        <key>Persistent ID</key><string>4063538640D41D26</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file:///Users/iain/Music/Collection/MovingHearts/The%20Storm/03%20The%20Storm.mp3</string>
+        <key>File Folder Count</key><integer>4</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>4993</key>
+      <dict>
+        <key>Track ID</key><integer>4993</integer>
+        <key>Name</key><string>Finore</string>
+        <key>Artist</key><string>Moving Hearts</string>
+        <key>Album</key><string>The Storm</string>
+        <key>Genre</key><string>Celtic</string>
+        <key>Kind</key><string>MPEG audio file</string>
+        <key>Size</key><integer>3307470</integer>
+        <key>Total Time</key><integer>143777</integer>
+        <key>Track Number</key><integer>4</integer>
+        <key>Track Count</key><integer>6</integer>
+        <key>Year</key><integer>1985</integer>
+        <key>BPM</key><integer>84</integer>
+        <key>Date Modified</key><date>2020-02-05T14:02:43Z</date>
+        <key>Date Added</key><date>2002-07-17T07:28:52Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>4</integer>
+        <key>Play Date</key><integer>3663857634</integer>
+        <key>Play Date UTC</key><date>2020-02-06T11:13:54Z</date>
+        <key>Skip Count</key><integer>1</integer>
+        <key>Skip Date</key><date>2018-05-09T11:39:04Z</date>
+        <key>Rating</key><integer>80</integer>
+        <key>Album Rating</key><integer>100</integer>
+        <key>Normalization</key><integer>379</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album</key><string>Storm</string>
+        <key>Persistent ID</key><string>4063538640D41D28</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file:///Users/iain/Music/Collection/MovingHearts/The%20Storm/04%20Finore.mp3</string>
+        <key>File Folder Count</key><integer>4</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+
       <key>4985</key>
       <dict>
 	<key>Track ID</key><integer>4985</integer>

@@ -7,11 +7,6 @@
   (:import
     (java.net URLDecoder)))
 
-(defn track-vector
-  [filename]
-  (let [file (java.io.File. filename)]
-    (vec (vals (get (plist/parse-plist file) "Tracks")))))
-
 (defn key->keyword
   [key]
   (keyword (s/replace (s/lower-case key) #"\s+" "-")))
@@ -20,23 +15,38 @@
   [url]
   (URLDecoder/decode url "UTF-8"))
 
-(defn track-map
+(defn all-artists
+  [tracks]
+  ["Moving Hearts" "Timo Maas"])
+
+(defn all-artist-tracks
+  [tracks artist]
+  {artist (group-by :album (get (group-by :artist tracks) artist))})
+
+(defn track-vector
   ([filename]
-   (track-map filename [:artist :album :name :location :rating :play-count :comments]))
+   (track-vector filename [:artist :album :name :location :rating :play-count :comments]))
   ([filename only]
-   (->> (track-vector filename)
-        (transform [ALL MAP-KEYS] key->keyword)
-        (transform [ALL (submap [:location]) MAP-VALS] url->string)
-        (select [ALL (submap only)]))))
+   (let [file (java.io.File. filename)
+         tracks  (vec (vals (get (plist/parse-plist file) "Tracks")))
+         track-vector (->>
+                        tracks
+                        (transform [ALL MAP-KEYS] key->keyword)
+                        (transform [ALL (submap [:location]) MAP-VALS] url->string)
+                        (select [ALL (submap only)]))]
+     (first (map #(all-artist-tracks track-vector %)
+           (all-artists track-vector))))))
 
+(comment
+  (track-vector "sample.xml")
+  )
 ;; TODO Sort the vector by Artist, Album and Track-number
-;; TODO Combine track-vector and track-map
-
+;; TODO rename track-vector, its a map now
 (defn plist->edn
   [in-file out-file & [only]]
   (let [tracks (if only
-                 (track-map in-file only)
-                 (track-map in-file))]
+                 (track-vector in-file only)
+                 (track-vector in-file))]
     (with-open [wtr (io/writer out-file)]
       (binding [*out* wtr]
         (println "[")
@@ -50,13 +60,24 @@
 
 (comment
   (plist->edn "sample.xml" "/tmp/plist.edn")
-  (track-map "sample.xml" [:location])
-  (track-map "sample.xml" [:name :artist])
+  (track-vector "sample.xml" [:location])
+  (track-vector "sample.xml" [:name :artist])
   (track-vector "sample.xml")
+  (group-by :album (track-vector "sample.xml"))
+  (group-by :artist (track-vector "sample.xml"))
+
+  (all-artists (track-vector "sample.xml"))
+  
+  (group-by :album (get (group-by :artist (track-vector "sample.xml")) "Moving Hearts"))
+  (all-artist-tracks (track-vector "sample.xml") "Moving Hearts")
+;; TODO map this^ across all artists
+  (map #(all-artist-tracks (track-vector "sample.xml") %)
+       (all-artists (track-vector "sample.xml")))
+;; TODO now get rid of the extra info in each track (artist and album)
+  
   (select [ALL (submap ["Location" "Play Count"])] (track-vector "sample.xml"))
   (transform [ALL MAP-KEYS] key->keyword (track-vector "sample.xml"))
   (->> (track-vector "sample.xml")
        (transform [ALL MAP-KEYS] key->keyword)
        (transform [ALL (submap [:location]) MAP-VALS] url->string))
-  (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3")
-)
+  (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3"))
