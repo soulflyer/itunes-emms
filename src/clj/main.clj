@@ -57,9 +57,10 @@
   ;; track-map is slow with a decent sized library, so use def to store it in memory.
   ;; Editing the data by hand is easier in edn format than the original plist format.
   ;; Store it in a file like this:
-  (spit "/tmp/out.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
+  (spit "track-data.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
   ;;And read it back in like this:
-  (def track-data (edn/read-string (slurp "out.edn")))
+  (def track-data (edn/read-string (slurp "track-data.edn")))
+  (get-in track-data ["Yes" "Going For The One"])
   
   (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3")
 )
