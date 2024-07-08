@@ -1,5 +1,6 @@
 (ns main
   (:require
+    [clojure.edn :as edn]
     [clojure.java.io :as io]
     [clojure.string :as s]
     [clojure.pprint :as pp]
@@ -42,48 +43,23 @@
                 (into {}
                       (map #(all-artist-tracks track-vector %)
                            artists))))))
-;;TODO blank out the empty ones (albums and artists)
+
+;; TODO blank out the empty ones (albums and artists)
 
 (comment
+  ;; track-map can take a vector of keywords. There is no point including :artist or :album
+  ;; those will be added anyway and used to build the data structure.
   (track-map "sample.xml")
-  (track-map "Library.xml" [:comments])
-  (spit "/tmp/out.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
-  )
-
-;; TODO This may not work since track-map changed
-(defn plist->edn
-  [in-file out-file & [only]]
-  (let [tracks (if only
-                 (track-map in-file only)
-                 (track-map in-file))]
-    (with-open [wtr (io/writer out-file)]
-      (binding [*out* wtr]
-        (println "[")
-        (doseq [track tracks]
-          (print "{")
-          (doseq [row track]
-            (pr (key row) (val row))
-            (print " "))
-          (println "}"))
-        (print "]")))))
-
-(comment
-  (plist->edn "sample.xml" "/tmp/plist.edn")
   (track-map "sample.xml" [:location])
-  (track-map "sample.xml" [:name :artist])
-  (track-map "sample.xml")
-  (keys (track-map "sample.xml"))
-  (group-by :album (track-map "sample.xml"))
-  (group-by :artist (track-map "sample.xml"))
+  (track-map "sample.xml" [:name :play-count])
+  (track-map "Library.xml" [:comments])
 
-  (group-by :album (get (group-by :artist (track-map "sample.xml")) "Moving Hearts"))
-  (all-artist-tracks (track-map "sample.xml") "Moving Hearts")
+  ;; track-map is slow with a decent sized library, so use def to store it in memory.
+  ;; Editing the data by hand is easier in edn format than the original plist format.
+  ;; Store it in a file like this:
+  (spit "/tmp/out.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
+  ;;And read it back in like this:
+  (def track-data (edn/read-string (slurp "out.edn")))
   
-;; TODO now get rid of the extra info in each track (artist and album)
-  
-  (select [ALL (submap ["Location" "Play Count"])] (track-map "sample.xml"))
-  (transform [ALL MAP-KEYS] key->keyword (track-map "sample.xml"))
-  (->> (track-map "sample.xml")
-       (transform [ALL MAP-KEYS] key->keyword)
-       (transform [ALL (submap [:location]) MAP-VALS] url->string))
-  (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3"))
+  (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3")
+)

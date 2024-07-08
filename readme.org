@@ -1,3 +1,4 @@
 * itunes-emms
 
 A tool to assist in escaping iTunes while keeping years of play-counts, comments and ratings.
+There are some hints on use in the main.clj file, in the comment block at the end.
