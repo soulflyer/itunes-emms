@@ -5,7 +5,8 @@ A tool to assist in escaping iTunes while keeping years of play-counts, comments
 The function track-data is used to create an edn representation of the plist data which can then be accessed with commands like this:
 #+begin_src clojure
 (def track-data-edn (track-data "Library.xml"))
-(get-in track-data-edn["Yes" "Going For The One"])
+(get-in track-data-edn ["Yes" "Going For The One"])
 #+end_src
 
-There are some hints on use in the main.clj file, in the comment block at the end.
+track-data will also take a list of fields to select the fields that will be included in the track data. This defaults to [:name :location :rating :play-count :comments]
+There are some more hints on use in the main.clj file, in the comment block at the end.

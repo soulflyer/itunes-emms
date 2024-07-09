@@ -2,10 +2,11 @@
   (:require
     [clojure.edn :as edn]
     [clojure.java.io :as io]
+    [clojure.java.shell :as sh]
     [clojure.string :as s]
     [clojure.pprint :as pp]
     [com.github.bdesham.clj-plist :as plist]
-    [com.rpl.specter :refer [ALL MAP-KEYS MAP-VALS submap transform select]])
+    [com.rpl.specter :refer [ALL MAP-KEYS MAP-VALS submap transform select selected? must]])
   (:import
     (java.net URLDecoder)))
 
@@ -16,6 +17,17 @@
 (defn url->string
   [url]
   (URLDecoder/decode url "UTF-8"))
+
+(defn truncate-location
+  "Locations are stored in the plist as file:// urls but mpc expects only the last part
+of the path, containing just the artist/album/track"
+  [pathname]
+  (let [split (s/split pathname #"/")
+        length (count split)
+        artist (nth split (- length 3))
+        album  (nth split (- length 2))
+        track  (nth split (- length 1))]
+    (str artist "/" album "/" track)))
 
 (defn all-artist-tracks
   [tracks artist]
@@ -44,9 +56,16 @@
                       (map #(all-artist-tracks track-vector %)
                            artists))))))
 
-;; TODO blank out the empty ones (albums and artists)
+(defn comment->sticker
+  [track]
+  (let [comments (:comments track)
+        filename (truncate-location (:location track))]
+    (print filename)
+    (println (:err (sh/sh "mpc" "sticker" filename "set" "comment" comments)))))
 
 (comment
+  (comment->sticker (first commented-tracks))
+  (sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
   ;; track-map can take a vector of keywords. There is no point including :artist or :album
   ;; those will be added anyway and used to build the data structure.
   (track-map "sample.xml")
@@ -61,6 +80,35 @@
   ;;And read it back in like this:
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (get-in track-data ["Yes" "Going For The One"])
+
+  ;; List all the tracks that have comments
+  (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data)
+
+  (def commented-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data))
+  (first commented-tracks)
+  ;; =>
+  ;; {:name "Hole In The Sky",
+  ;; :location
+  ;; "file:///Users/iain/Music/Collection/Shining/Animal/10 Hole In The Sky.mp3",
+  ;; :comments "Meh"}
+
+  (comment->sticker (first commented-tracks))
+  ;; puts the first comment into the sticker db
+
+  ;; Backup the db first...
+  (map comment->sticker commented-tracks)
+  ;; Gave lots of errors, :err "MPD error: No such song\n" but did put lots of comments in the db
+  ;; This is because I did some cleanup in the time between starting using emms and writing this
+  ;; Some of the pathnames no longer match. When they do, it works fine.
+  
+  (truncate-location "file:///Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
+  ;; => "TimoMaas/Loud/10 To Get Down.mp3"
   
   (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3")
-)
+  ;; => "file:///Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3"
+
+  ;;Editing the edn file to correct some paths. Do these to update all the comments and check for errors.
+  (def track-data (edn/read-string (slurp "track-data.edn")))
+  (def commented-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data))
+  (map comment->sticker commented-tracks)
+  )
