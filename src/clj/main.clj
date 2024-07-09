@@ -63,9 +63,20 @@ of the path, containing just the artist/album/track"
     (print filename)
     (println (:err (sh/sh "mpc" "sticker" filename "set" "comment" comments)))))
 
+(defn rating->sticker
+  [track]
+  (let [itunes-rating (/ (:rating track) 20)
+        mpd-rating    (* itunes-rating 2)
+        filename      (truncate-location (:location track))]
+    ;;(print (str filename ": " itunes-rating " " mpd-rating))
+    (print (str filename " " (:err (sh/sh "mpc" "sticker" filename "set" "rating" (str mpd-rating)))))))
+
 (comment
-  (comment->sticker (first commented-tracks))
-  (sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
+  (def track-data (edn/read-string (slurp "track-data.edn")))
+  (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
+  (map rating->sticker rated-tracks)
+  
+  (Sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
   ;; track-map can take a vector of keywords. There is no point including :artist or :album
   ;; those will be added anyway and used to build the data structure.
   (track-map "sample.xml")
