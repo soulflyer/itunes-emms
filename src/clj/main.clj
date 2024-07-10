@@ -67,16 +67,18 @@ of the path, containing just the artist/album/track"
   [track]
   (let [itunes-rating (/ (:rating track) 20)
         mpd-rating    (* itunes-rating 2)
-        filename      (truncate-location (:location track))]
-    ;;(print (str filename ": " itunes-rating " " mpd-rating))
-    (print (str filename " " (:err (sh/sh "mpc" "sticker" filename "set" "rating" (str mpd-rating)))))))
+        filename      (truncate-location (:location track))
+        command       (sh/sh "mpc" "sticker" filename "set" "rating" (str mpd-rating))]
+    ;; (print (str filename ": " itunes-rating " " mpd-rating))
+    (when (> (count (:err command)) 0)
+      (print (str filename " " (:err command))))))
 
 (comment
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
   (map rating->sticker rated-tracks)
   
-  (Sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
+  (sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
   ;; track-map can take a vector of keywords. There is no point including :artist or :album
   ;; those will be added anyway and used to build the data structure.
   (track-map "sample.xml")
@@ -121,5 +123,4 @@ of the path, containing just the artist/album/track"
   ;;Editing the edn file to correct some paths. Do these to update all the comments and check for errors.
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (def commented-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data))
-  (map comment->sticker commented-tracks)
-  )
+  (map comment->sticker commented-tracks))
