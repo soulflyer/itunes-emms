@@ -6,7 +6,7 @@
     [clojure.string :as s]
     [clojure.pprint :as pp]
     [com.github.bdesham.clj-plist :as plist]
-    [com.rpl.specter :refer [ALL MAP-KEYS MAP-VALS submap transform select selected? must]])
+    [com.rpl.specter :refer [ALL MAP-KEYS MAP-VALS submap transform select selected? must setval NONE compact]])
   (:import
     (java.net URLDecoder)))
 
@@ -73,10 +73,20 @@ of the path, containing just the artist/album/track"
     (when (> (count (:err command)) 0)
       (print (str filename " " (:err command))))))
 
+(defn plist->edn [plist-file edn-file]
+  (spit edn-file (with-out-str (pp/pprint (track-map plist-file)))))
+
+(defn track-data [edn-file]
+  (edn/read-string (slurp edn-file)))
+
 (comment
   (def track-data (edn/read-string (slurp "track-data.edn")))
-  (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
+  (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] (track-data "track-data.edn")))
   (map rating->sticker rated-tracks)
+
+  (def no-unplayed (setval [MAP-VALS MAP-VALS ALL #( = nil (:play-count %))] NONE track-data))
+
+  (def no-unplayed (setval [(compact MAP-VALS MAP-VALS ALL) #( = nil (:play-count %))] NONE track-data))
   
   (sh/sh "open" "/Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3")
   ;; track-map can take a vector of keywords. There is no point including :artist or :album
@@ -90,9 +100,13 @@ of the path, containing just the artist/album/track"
   ;; Editing the data by hand is easier in edn format than the original plist format.
   ;; Store it in a file like this:
   (spit "track-data.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
+  ;; or
+  (plist->edn "Library.xml" "track-data.edn")  
   ;;And read it back in like this:
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (get-in track-data ["Yes" "Going For The One"])
+  ;; or
+  (get-in (track-data "track-data.edn") ["Yes" "Going For The One"])
 
   ;; List all the tracks that have comments
   (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data)
@@ -123,4 +137,17 @@ of the path, containing just the artist/album/track"
   ;;Editing the edn file to correct some paths. Do these to update all the comments and check for errors.
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (def commented-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data))
-  (map comment->sticker commented-tracks))
+  (map comment->sticker commented-tracks)
+
+  ;; Similarly for ratings:
+  (def track-data (edn/read-string (slurp "track-data.edn")))
+  (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
+  (map rating->sticker rated-tracks)
+
+  ;; This is working, but there is lots of information not needed.
+  ;; Lets remove all the tracks, albums and artists that don't contain any of the info we need.
+  ;; For instance, remove all the tracks that have no play count.
+  
+  
+  (def no-unplayed (setval [(compact MAP-VALS MAP-VALS ALL) #( = nil (:play-count %))] NONE track-data))
+  )
