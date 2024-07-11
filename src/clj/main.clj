@@ -73,11 +73,24 @@ of the path, containing just the artist/album/track"
     (when (> (count (:err command)) 0)
       (print (str filename " " (:err command))))))
 
-(defn plist->edn [plist-file edn-file]
-  (spit edn-file (with-out-str (pp/pprint (track-map plist-file)))))
+(defn track-map->edn
+  [track-map edn-file]
+  (spit edn-file (with-out-str (pp/pprint track-map))))
 
-(defn track-data [edn-file]
-  (edn/read-string (slurp edn-file)))
+(defn plist->edn
+  [plist-file edn-file]
+  (track-map->edn (track-map plist-file) edn-file))
+
+;; (defn plist->edn [plist-file edn-file]
+;;   (spit edn-file (with-out-str (pp/pprint (track-map plist-file)))))
+
+(defn track-data
+  [edn-file]
+  (doall (edn/read-string (slurp edn-file))))
+
+(defn rated-tracks
+  [track-data]
+  (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
 
 (comment
   (def track-data (edn/read-string (slurp "track-data.edn")))
@@ -100,7 +113,7 @@ of the path, containing just the artist/album/track"
   ;; Editing the data by hand is easier in edn format than the original plist format.
   ;; Store it in a file like this:
   (spit "track-data.edn" (with-out-str (pp/pprint (track-map "Library.xml"))))
-  ;; or
+  ;; or (Untested)
   (plist->edn "Library.xml" "track-data.edn")  
   ;;And read it back in like this:
   (def track-data (edn/read-string (slurp "track-data.edn")))
@@ -134,20 +147,33 @@ of the path, containing just the artist/album/track"
   (url->string "file:///Users/iain/Music/Collection/TimoMaas/Loud/10%20To%20Get%20Down.mp3")
   ;; => "file:///Users/iain/Music/Collection/TimoMaas/Loud/10 To Get Down.mp3"
 
-  ;;Editing the edn file to correct some paths. Do these to update all the comments and check for errors.
+  ;;I edited the edn file to correct some paths. Did these to update all the comments and check for errors.
   (def track-data (edn/read-string (slurp "track-data.edn")))
   (def commented-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :comments))] track-data))
   (map comment->sticker commented-tracks)
 
   ;; Similarly for ratings:
-  (def track-data (edn/read-string (slurp "track-data.edn")))
-  (def rated-tracks (select [MAP-VALS MAP-VALS ALL (selected? (must :rating))] track-data))
-  (map rating->sticker rated-tracks)
+  (map rating->sticker (rated-tracks (track-data "track-data.edn")))
 
-  ;; This is working, but there is lots of information not needed.
+  ;; This is working, but there is lots of information not needed in the edn file.
   ;; Lets remove all the tracks, albums and artists that don't contain any of the info we need.
   ;; For instance, remove all the tracks that have no play count.
-  
-  
-  (def no-unplayed (setval [(compact MAP-VALS MAP-VALS ALL) #( = nil (:play-count %))] NONE track-data))
+
+  (track-map->edn
+    (setval [(compact MAP-VALS MAP-VALS ALL) #( = nil (:play-count %))] NONE (track-data "track-data.edn"))
+    "track-data-compact.edn")
+  (map rating->sticker (rated-tracks (track-data "track-data-compact.edn")))
+  ;; Ah. There are less errors now. This must be because some tracks have ratings but no play count...
+  ;; Better adjust it to keep anything that has a rating or a play count
+
+   (track-map->edn
+     (setval [(compact MAP-VALS MAP-VALS ALL)
+              #(and
+                 (= nil (:play-count %))
+                 (= nil (:rating %)))]
+             NONE
+             (track-data "track-data.edn"))
+    "track-data-compact.edn")
+   (map rating->sticker (rated-tracks (track-data "track-data-compact.edn")))
+   
   )
