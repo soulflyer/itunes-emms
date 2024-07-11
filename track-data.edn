@@ -30827,96 +30827,96 @@
   "Dark Light"
   [{:name "HIM- Venus",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/HIM- Venus.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/HIM- Venus.mp3",
     :play-count 1}
    {:name "Vampire Heart",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/01 Vampire Heart.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/01 Vampire Heart.mp3",
     :play-count 1}
    {:name "Rip Out The Wings Of ButterFly",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/02 Rip Out The Wings Of ButterFly.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/02 Rip Out The Wings Of ButterFly.mp3"}
    {:name "Drunk on Shadow",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/08 Drunk on Shadow.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/08 Drunk on Shadow.mp3"}
    {:name "02 02 02 02 02 Poison_Heart",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/02 02 02 02 02 Poison_Heart.MP3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/02 02 02 02 02 Poison_Heart.MP3"}
    {:name "Killing Loneliness",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/04 Killing Loneliness.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/04 Killing Loneliness.mp3"}
    {:name "The face of God",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/07 The face of God.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/07 The face of God.mp3"}
    {:name "Dark Light",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/05 Dark Light.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/05 Dark Light.mp3"}
    {:name "The Cage - Bonus track",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/11 The Cage - Bonus track.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/11 The Cage - Bonus track.mp3"}
    {:name "Play Dead",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/09 Play Dead.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/09 Play Dead.mp3"}
    {:name "In the Nightside of Eden",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/10 In the Nightside of Eden.mp3"}
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/10 In the Nightside of Eden.mp3"}
    {:name "Under the Rose",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/03 Under the Rose.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/03 Under the Rose.mp3",
     :rating 40}
    {:name "Behind The Crimson Door",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Dark Light/06 Behind The Crimson Door.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Dark-Light/06 Behind The Crimson Door.mp3",
     :rating 40,
     :play-count 1}],
   "Love Metal"
   [{:name "Endless Dark",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/09 Endless Dark.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/09 Endless Dark.mp3",
     :play-count 9}
    {:name "Funeral Of Hearts",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/02 Funeral Of Hearts.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/02 Funeral Of Hearts.mp3",
     :rating 40,
     :play-count 7}
    {:name "The Path",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/10 The Path.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/10 The Path.mp3",
     :rating 60,
     :play-count 7}
    {:name "Circle Of Fear",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/08 Circle Of Fear.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/08 Circle Of Fear.mp3",
     :rating 40,
     :play-count 8}
    {:name "Sweet Pandemonium",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/04 Sweet Pandemonium.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/04 Sweet Pandemonium.mp3",
     :rating 40,
     :play-count 8}
    {:name "Buried Alive By Love",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/01 Buried Alive By Love.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/01 Buried Alive By Love.mp3",
     :rating 40,
     :play-count 8}
    {:name "Soul On Fire",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/05 Soul On Fire.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/05 Soul On Fire.mp3",
     :rating 40,
     :play-count 5}
    {:name "The Sacrament",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/06 The Sacrament.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/06 The Sacrament.mp3",
     :rating 60,
     :play-count 14}
    {:name "Beyond Redemption",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/03 Beyond Redemption.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/03 Beyond Redemption.mp3",
     :rating 40,
     :play-count 7}
    {:name "This Fortress Of Tears",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Love Metal/07 This Fortress Of Tears.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Love-Metal/07 This Fortress Of Tears.mp3",
     :rating 60,
     :play-count 17}],
   "Greatest Love Songs Vol 666"
@@ -30928,7 +30928,7 @@
     "file:///Users/iain/Music/Collection/H.I.M/Greatest Love Songs Vol 666/17 When Love and Death Embrace.mp3"}
    {:name "Don't fear the reaper",
     :location
-    "file:///Users/iain/Music/Collection/H.I.M/Greatest Love Songs Vol 666/Don't fear the reaper.mp3",
+    "file:///Users/iain/Music/Collection/H.I.M/Greatest-Love-Songs-Vol-666/Don't fear the reaper.mp3",
     :rating 60,
     :play-count 3}
    {:name "It;s All Tears ( drow In This Love )",
@@ -31729,32 +31729,32 @@
  {"Rien ne devait mourir"
   [{:name "Blood for Lavinia",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-04 Blood for Lavinia.mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-04 Blood for Lavinia.mp3",
     :rating 60,
     :play-count 1}
    {:name "Que les lueurs se dispersent",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-06 Que les lueurs se dispersent.mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-06 Que les lueurs se dispersent.mp3",
     :rating 60,
     :play-count 3}
    {:name "Drowned Divine",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-03 Drowned Divine.mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-03 Drowned Divine.mp3",
     :rating 60,
     :play-count 1}
    {:name "Sur les sentiers de lune",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-05 Sur les sentiers de lune.mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-05 Sur les sentiers de lune.mp3",
     :rating 60,
     :play-count 1}
    {:name "Dreams (Along the Trail)",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-02 Dreams (Along the Trail).mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-02 Dreams (Along the Trail).mp3",
     :rating 60,
     :play-count 1}
    {:name "A Romance of Thorns",
     :location
-    "file:///Users/iain/Music/Collection/Angellore/Rien ne devait mourir/1-01 A Romance of Thorns.mp3",
+    "file:///Users/iain/Music/Collection/Angellore/Rien-ne-devait-mourir/1-01 A Romance of Thorns.mp3",
     :rating 60,
     :play-count 1}]},
  "Leven, Jackie"
@@ -32579,55 +32579,55 @@
  {"Fifty Eggs"
   [{:name "Monica",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/11 Monica.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/11 Monica.mp3",
     :rating 40,
     :play-count 1}
    {:name "Cure For Aids",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/05 Cure For Aids.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/05 Cure For Aids.mp3",
     :rating 40}
    {:name "Oh Sister",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/04 Oh Sister.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/04 Oh Sister.mp3",
     :rating 40}
    {:name "One Thing Real",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/02 One Thing Real.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/02 One Thing Real.mp3",
     :rating 80,
     :play-count 17}
    {:name "One Dance",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/09 One Dance.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/09 One Dance.mp3",
     :rating 60,
     :play-count 4}
    {:name "Rolling Away",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/Rolling Away.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/Rolling Away.mp3",
     :rating 40,
     :play-count 2}
    {:name "Everybody's Baby",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/08 Everybody's Baby.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/08 Everybody's Baby.mp3",
     :rating 40}
    {:name "Jesus Freak",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/10 Jesus Freak.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/10 Jesus Freak.mp3",
     :rating 40}
    {:name "Chick Singers",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/06 Chick Singers.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/06 Chick Singers.mp3",
     :rating 40}
    {:name "No Missing Link",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/03 No Missing Link.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/03 No Missing Link.mp3",
     :rating 40}
    {:name "Tiger Woods",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/01 Tiger Woods.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/01 Tiger Woods.mp3",
     :rating 40}
    {:name "Different Worlds",
     :location
-    "file:///Users/iain/Music/Collection/DanBern/Fifty Eggs/07 Different Worlds.mp3",
+    "file:///Users/iain/Music/Collection/DanBern/Fifty-Eggs/07 Different Worlds.mp3",
     :rating 40}]},
  "Posehn/Brendon Small/Jill Janus"
  {"Grandpa Metal"
@@ -33467,52 +33467,52 @@
  {"Copper Blue"
   [{:name "Helpless",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/04 Helpless.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/04 Helpless.mp3",
     :rating 40,
     :play-count 1}
    {:name "Slick",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/09 Slick.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/09 Slick.mp3",
     :rating 40,
     :play-count 1}
    {:name "Hoover Dam",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/05 Hoover Dam.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/05 Hoover Dam.mp3",
     :rating 60,
     :play-count 2}
    {:name "The Slim",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/06 The Slim.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/06 The Slim.mp3",
     :rating 40,
     :play-count 1}
    {:name "If I Can't Change Your Mind",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/07 If I Can't Change Your Mind.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/07 If I Can't Change Your Mind.mp3",
     :rating 40,
     :play-count 1}
    {:name "A Good Idea",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/02 A Good Idea.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/02 A Good Idea.mp3",
     :rating 40,
     :play-count 1}
    {:name "Fortune Teller",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/08 Fortune Teller.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/08 Fortune Teller.mp3",
     :rating 40,
     :play-count 1}
    {:name "Man On The Moon",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/10 Man On The Moon.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/10 Man On The Moon.mp3",
     :rating 80,
     :play-count 3}
    {:name "Changes",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/03 Changes.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/03 Changes.mp3",
     :rating 40,
     :play-count 1}
    {:name "The Act We Act",
     :location
-    "file:///Users/iain/Music/Collection/Sugar/Copper Blue/01 The Act We Act.mp3",
+    "file:///Users/iain/Music/Collection/Sugar/Copper-Blue/01 The Act We Act.mp3",
     :rating 40,
     :play-count 1}]},
  "Ryan Adams"
@@ -34472,47 +34472,47 @@
  {"The Gereg"
   [{:name "Song of Women",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-09 Song of Women.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-09 Song of Women.mp3",
     :rating 60,
     :play-count 1}
    {:name "Yuve Yuve Yu",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-07 Yuve Yuve Yu.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-07 Yuve Yuve Yu.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Same",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-06 The Same.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-06 The Same.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Great Chinggis Khaan",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-03 The Great Chinggis Khaan.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-03 The Great Chinggis Khaan.mp3",
     :rating 60,
     :play-count 1}
    {:name "Shireg Shireg",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-08 Shireg Shireg.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-08 Shireg Shireg.mp3",
     :rating 60,
     :play-count 1}
    {:name "Wolf Totem",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-02 Wolf Totem.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-02 Wolf Totem.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Gereg",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-01 The Gereg.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-01 The Gereg.mp3",
     :rating 60,
     :play-count 1}
    {:name "Shoog Shoog",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-05 Shoog Shoog.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-05 Shoog Shoog.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Legend of Mother Swan",
     :location
-    "file:///Users/iain/Music/Collection/TheHU/The Gereg/1-04 The Legend of Mother Swan.mp3",
+    "file:///Users/iain/Music/Collection/TheHU/The-Gereg/1-04 The Legend of Mother Swan.mp3",
     :rating 60,
     :play-count 1}]},
  "Intrepid"
@@ -34858,82 +34858,82 @@
  {"A Wonderful Life"
   [{:name "To the Front",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/14 - To the Front.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/14 - To the Front.mp3",
     :rating 60,
     :play-count 3}
    {:name "Madness Within",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/02 - Madness Within.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/02 - Madness Within.mp3",
     :rating 60,
     :play-count 3}
    {:name "I Am the One",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/10 - I Am the One.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/10 - I Am the One.mp3",
     :rating 80,
     :play-count 5}
    {:name "The Flood",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/11 - The Flood.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/11 - The Flood.mp3",
     :rating 80,
     :play-count 6}
    {:name "Pulse",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/06 - Pulse.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/06 - Pulse.mp3",
     :rating 80,
     :play-count 5}
    {:name "Where the End Begins",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/12 - Where the End Begins.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/12 - Where the End Begins.mp3",
     :rating 80,
     :play-count 4}
    {:name "The Time Has Come",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/08 - The Time Has Come.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/08 - The Time Has Come.mp3",
     :rating 60,
     :play-count 3}
    {:name "Sound of Destruction",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/15 - Sound of Destruction.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/15 - Sound of Destruction.mp3",
     :rating 60,
     :play-count 3}
    {:name "11th Hour",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/09 - 11th Hour.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/09 - 11th Hour.mp3",
     :rating 60,
     :play-count 3}
    {:name "Seen It All",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/03 - Seen It All.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/03 - Seen It All.mp3",
     :rating 60,
     :play-count 3}
    {:name "Carry On",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/07 - Carry On.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/07 - Carry On.mp3",
     :rating 60,
     :play-count 3}
    {:name "Another Ghost",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/16 - Another Ghost.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/16 - Another Ghost.mp3",
     :rating 60,
     :play-count 3}
    {:name "Confutatis",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/13 - Confutatis.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/13 - Confutatis.mp3",
     :rating 60,
     :play-count 3}
    {:name "What a Shame",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/05 - What a Shame.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/05 - What a Shame.mp3",
     :rating 60,
     :play-count 6}
    {:name "The Heresy",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/04 - The Heresy.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/04 - The Heresy.mp3",
     :rating 80,
     :play-count 6}
    {:name "A Reqiuem for Tomorrow",
     :location
-    "file:///Users/iain/Music/Collection/Mushroomhead/A Wonderful Life/01 - A Reqiuem for Tomorrow.mp3",
+    "file:///Users/iain/Music/Collection/Mushroomhead/A-Wonderful-Life/01 - A Reqiuem for Tomorrow.mp3",
     :rating 60,
     :play-count 3}]},
  "Kingdom Come"
@@ -43930,7 +43930,7 @@
     "file:///Users/iain/Music/Collection/Katatonia/The Black Sessions/2-12 Wait Outside.mp3"}
    {:name "Criminals",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Black Sessions/1-03 Criminals.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Black-Sessions/1-03 Criminals.mp3",
     :rating 40}
    {:name "Ghost Of The Sun",
     :location
@@ -43983,72 +43983,72 @@
   "Last Fair Deal Gone Down"
   [{:name "Chrome",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/02 Chrome.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/02 Chrome.mp3",
     :rating 60,
     :play-count 1}
    {:name "Passing Bird",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/09 Passing Bird.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/09 Passing Bird.mp3",
     :rating 60,
     :play-count 1}
    {:name "We Must Bury You",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/03 We Must Bury You.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/03 We Must Bury You.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Future Of Speech",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/08 The Future Of Speech.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/08 The Future Of Speech.mp3",
     :rating 60,
     :play-count 1}
    {:name "Don't Tell A Soul",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/11 Don't Tell A Soul.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/11 Don't Tell A Soul.mp3",
     :rating 60,
     :play-count 1}
    {:name "March 4",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/13 March 4.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/13 March 4.mp3",
     :rating 40,
     :play-count 1}
    {:name "I Transpire",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/05 I Transpire.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/05 I Transpire.mp3",
     :rating 60,
     :play-count 1}
    {:name "Help Me Disappear",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/14 Help Me Disappear.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/14 Help Me Disappear.mp3",
     :rating 60,
     :play-count 1}
    {:name "Sweet Nurse",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/10 Sweet Nurse.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/10 Sweet Nurse.mp3",
     :rating 60,
     :play-count 1}
    {:name "Teargas",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/04 Teargas.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/04 Teargas.mp3",
     :rating 60,
     :play-count 1}
    {:name "Dispossession",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/01 Dispossession.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/01 Dispossession.mp3",
     :rating 60,
     :play-count 1}
    {:name "Tonight's Music",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/06 Tonight's Music.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/06 Tonight's Music.mp3",
     :rating 60,
     :play-count 1}
    {:name "Sulfur",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/12 Sulfur.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/12 Sulfur.mp3",
     :rating 60,
     :play-count 1}
    {:name "Clean Today",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Last Fair Deal Gone Down/07 Clean Today.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Last-Fair-Deal-Gone-Down/07 Clean Today.mp3",
     :rating 60,
     :play-count 1}],
   "Deliberation"
@@ -44083,96 +44083,96 @@
   "Night Is The New Day"
   [{:name "Onward Into Battle",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/04 Onward Into Battle.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/04 Onward Into Battle.mp3"}
    {:name "Ashen",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/11 Ashen.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/11 Ashen.mp3"}
    {:name "New Night",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/08 New Night.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/08 New Night.mp3"}
    {:name "The Longest Year",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/02 The Longest Year.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/02 The Longest Year.mp3",
     :rating 40,
     :play-count 1}
    {:name "Idle Blood",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/03 Idle Blood.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/03 Idle Blood.mp3",
     :rating 40,
     :play-count 1}
    {:name "The Promise Of Deceit",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/06 The Promise Of Deceit.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/06 The Promise Of Deceit.mp3"}
    {:name "Liberation",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/05 Liberation.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/05 Liberation.mp3"}
    {:name "Nephilim",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/07 Nephilim.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/07 Nephilim.mp3"}
    {:name "Day And Then The Shade",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/10 Day And Then The Shade.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/10 Day And Then The Shade.mp3"}
    {:name "Forsaker",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/01 Forsaker.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/01 Forsaker.mp3",
     :rating 60,
     :play-count 1}
    {:name "Inheritance",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/09 Inheritance.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/09 Inheritance.mp3"}
    {:name "Departer",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Night Is The New Day/12 Departer.mp3"}],
+    "file:///Users/iain/Music/Collection/Katatonia/Night-Is-The-New-Day/12 Departer.mp3"}],
   "The Fall of Hearts"
   [{:name "Wide Awake In Quietus",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/15 Wide Awake In Quietus.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/15 Wide Awake In Quietus.mp3"}
    {:name "Decima",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/04 Decima.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/04 Decima.mp3"}
    {:name "Serac",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/07 Serac.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/07 Serac.mp3"}
    {:name "Shifts",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/09 Shifts.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/09 Shifts.mp3"}
    {:name "The Night Subscriber",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/10 The Night Subscriber.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/10 The Night Subscriber.mp3"}
    {:name "Passer",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/12 Passer.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/12 Passer.mp3"}
    {:name "Serein",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/02 Serein.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/02 Serein.mp3",
     :rating 60,
     :play-count 1}
    {:name "Last Song Before The Fade",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/08 Last Song Before The Fade.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/08 Last Song Before The Fade.mp3"}
    {:name "Sanction",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/05 Sanction.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/05 Sanction.mp3"}
    {:name "Old Heart Falls",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/03 Old Heart Falls.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/03 Old Heart Falls.mp3"}
    {:name "Sistere",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/14 Sistere.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/14 Sistere.mp3"}
    {:name "Takeover",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/01 Takeover.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/01 Takeover.mp3",
     :rating 60,
     :play-count 3}
    {:name "Pale Flag",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/11 Pale Flag.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/11 Pale Flag.mp3"}
    {:name "Vakaren",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/13 Vakaren.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/13 Vakaren.mp3"}
    {:name "Residual",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Fall of Hearts/06 Residual.mp3"}],
+    "file:///Users/iain/Music/Collection/Katatonia/The-Fall-of-Hearts/06 Residual.mp3"}],
   "Tonight's Decision"
   [{:name "This Punishment",
     :location
@@ -44216,131 +44216,131 @@
   "For Funerals To Come"
   [{:name "Funeral Wedding",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/For Funerals To Come/01 Funeral Wedding.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/For-Funerals-To-Come/01 Funeral Wedding.mp3",
     :rating 60,
     :play-count 1}
    {:name "Shades Of Emerald Fields",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/For Funerals To Come/02 Shades Of Emerald Fields.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/For-Funerals-To-Come/02 Shades Of Emerald Fields.mp3",
     :play-count 1}
    {:name "For Funerals To Come",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/For Funerals To Come/03 For Funerals To Come.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/For-Funerals-To-Come/03 For Funerals To Come.mp3",
     :rating 40,
     :play-count 1}
    {:name "Epistel",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/For Funerals To Come/04 Epistel.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/For-Funerals-To-Come/04 Epistel.mp3",
     :play-count 1}],
   "Dead End Kings"
   [{:name "Undo You",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/08 Undo You.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/08 Undo You.mp3"}
    {:name "Leech",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/06 Leech.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/06 Leech.mp3",
     :play-count 1}
    {:name "Ambitions",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/07 Ambitions.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/07 Ambitions.mp3"}
    {:name "Hypnone",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/03 Hypnone.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/03 Hypnone.mp3",
     :rating 60,
     :play-count 1}
    {:name "First Prayer",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/10 First Prayer.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/10 First Prayer.mp3"}
    {:name "Lethean",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/09 Lethean.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/09 Lethean.mp3"}
    {:name "Buildings",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/05 Buildings.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/05 Buildings.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Parting",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/01 The Parting.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/01 The Parting.mp3",
     :rating 40,
     :play-count 1}
    {:name "Dead Letters",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/11 Dead Letters.mp3"}
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/11 Dead Letters.mp3"}
    {:name "The One You Are Looking For Is Not Here",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/02 The One You Are Looking For Is Not Here.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/02 The One You Are Looking For Is Not Here.mp3",
     :rating 40,
     :play-count 1}
    {:name "The Racing Heart",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/Dead End Kings/04 The Racing Heart.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/Dead-End-Kings/04 The Racing Heart.mp3",
     :rating 60,
     :play-count 1}],
   "City Burials"
   [{:name "Flicker",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/08. Flicker.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/08. Flicker.mp3",
     :rating 60,
     :play-count 1}
    {:name "Closing of the Sky",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/12. Closing of the Sky.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/12. Closing of the Sky.mp3",
     :rating 60,
     :play-count 1}
    {:name "Untrodden",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/11. Untrodden.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/11. Untrodden.mp3",
     :rating 60,
     :play-count 1}
    {:name "Neon Epitaph",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/10. Neon Epitaph.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/10. Neon Epitaph.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Winter of Our Passing",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/05. The Winter of Our Passing.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/05. The Winter of Our Passing.mp3",
     :rating 60,
     :play-count 1}
    {:name "Vanishers",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/06. Vanishers.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/06. Vanishers.mp3",
     :rating 60,
     :play-count 1}
    {:name "Behind the Blood",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/02. Behind the Blood.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/02. Behind the Blood.mp3",
     :rating 60,
     :play-count 2}
    {:name "City Glaciers",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/07. City Glaciers.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/07. City Glaciers.mp3",
     :rating 60,
     :play-count 1}
    {:name "Heart Set to Divide",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/01. Heart Set to Divide.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/01. Heart Set to Divide.mp3",
     :rating 60,
     :play-count 1}
    {:name "Lacquer",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/03. Lacquer.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/03. Lacquer.mp3",
     :rating 40,
     :play-count 1}
    {:name "Fighters",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/13. Fighters.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/13. Fighters.mp3",
     :rating 60,
     :play-count 1}
    {:name "Rein",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/04. Rein.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/04. Rein.mp3",
     :rating 60,
     :play-count 1}
    {:name "Lachesis",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/City Burials/09. Lachesis.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/City-Burials/09. Lachesis.mp3",
     :rating 40,
     :play-count 1}],
   "Dance Of December Souls"
@@ -44390,62 +44390,62 @@
   "The Great Cold Distance"
   [{:name "Deliberation",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/02 Deliberation.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/02 Deliberation.mp3",
     :rating 60,
     :play-count 1}
    {:name "In The White",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/10 In The White.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/10 In The White.mp3",
     :rating 60,
     :play-count 1}
    {:name "Leaders",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/01 Leaders.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/01 Leaders.mp3",
     :rating 60,
     :play-count 1}
    {:name "The Itch",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/11 The Itch.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/11 The Itch.mp3",
     :rating 60,
     :play-count 1}
    {:name "Follower",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/06 Follower.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/06 Follower.mp3",
     :rating 60,
     :play-count 1}
    {:name "Increase",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/08 Increase.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/08 Increase.mp3",
     :rating 60,
     :play-count 1}
    {:name "My Twin",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/04 My Twin.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/04 My Twin.mp3",
     :rating 60,
     :play-count 1}
    {:name "Journey Through Pressure",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/12 Journey Through Pressure.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/12 Journey Through Pressure.mp3",
     :rating 60,
     :play-count 1}
    {:name "July",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/09 July.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/09 July.mp3",
     :rating 60,
     :play-count 1}
    {:name "Rusted",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/07 Rusted.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/07 Rusted.mp3",
     :rating 60,
     :play-count 1}
    {:name "Consternation",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/05 Consternation.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/05 Consternation.mp3",
     :rating 60,
     :play-count 1}
    {:name "Soil's Song",
     :location
-    "file:///Users/iain/Music/Collection/Katatonia/The Great Cold Distance/03 Soil's Song.mp3",
+    "file:///Users/iain/Music/Collection/Katatonia/The-Great-Cold-Distance/03 Soil's Song.mp3",
     :rating 60,
     :play-count 1}]},
  "Atomic Swing"
@@ -47283,48 +47283,48 @@
  {"Fly Like An Eagle"
   [{:name "Mercury Blues",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/06 Mercury Blues.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/06 Mercury Blues.mp3"}
    {:name "The Window",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/12 The Window.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/12 The Window.mp3"}
    {:name "You Send Me",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/09 You Send Me.mp3",
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/09 You Send Me.mp3",
     :rating 40}
    {:name "Dance, Dance, Dance",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/05 Dance, Dance, Dance.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/05 Dance, Dance, Dance.mp3"}
    {:name "Serenade",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/04 Serenade.mp3",
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/04 Serenade.mp3",
     :rating 40,
     :play-count 2}
    {:name "Take The Money And Run",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/07 Take The Money And Run.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/07 Take The Money And Run.mp3"}
    {:name "Blue Odyssey",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/10 Blue Odyssey.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/10 Blue Odyssey.mp3"}
    {:name "Fly Like An Eagle",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/02 Fly Like An Eagle.mp3",
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/02 Fly Like An Eagle.mp3",
     :rating 40,
     :play-count 1}
    {:name "Wild Mountain Honey",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/03 Wild Mountain Honey.mp3"}
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/03 Wild Mountain Honey.mp3"}
    {:name "Rock'n Me",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/08 Rock'n Me.mp3",
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/08 Rock'n Me.mp3",
     :rating 40}
    {:name "Space Intro.",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/01 Space Intro..mp3",
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/01 Space Intro..mp3",
     :rating 40,
     :play-count 1}
    {:name "Sweet Maree",
     :location
-    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly Like An Eagle/11 Sweet Maree.mp3"}]},
+    "file:///Users/iain/Music/Collection/SteveMillerBand/Fly-Like-An-Eagle/11 Sweet Maree.mp3"}]},
  "Woody Herman"
  {"Random Swing"
   [{:name "At The Woodchopper's Ball (inst.weird)",
@@ -47345,22 +47345,22 @@
  {"Black Butterfly"
   [{:name "Stille Nacht",
     :location
-    "file:///Users/iain/Music/Collection/LeavesEyes/Black Butterfly/04 Stille Nacht.mp3",
+    "file:///Users/iain/Music/Collection/LeavesEyes/Black-Butterfly/04 Stille Nacht.mp3",
     :rating 40,
     :play-count 1}
    {:name "Serkland",
     :location
-    "file:///Users/iain/Music/Collection/LeavesEyes/Black Butterfly/02 Serkland.mp3",
+    "file:///Users/iain/Music/Collection/LeavesEyes/Black-Butterfly/02 Serkland.mp3",
     :rating 40,
     :play-count 2}
    {:name "Black Butterfly",
     :location
-    "file:///Users/iain/Music/Collection/LeavesEyes/Black Butterfly/01 Black Butterfly.mp3",
+    "file:///Users/iain/Music/Collection/LeavesEyes/Black-Butterfly/01 Black Butterfly.mp3",
     :rating 60,
     :play-count 2}
    {:name "Night of the Ravens",
     :location
-    "file:///Users/iain/Music/Collection/LeavesEyes/Black Butterfly/03 Night of the Ravens.mp3",
+    "file:///Users/iain/Music/Collection/LeavesEyes/Black-Butterfly/03 Night of the Ravens.mp3",
     :rating 60,
     :play-count 2}]},
  "Diana Ross & The Supremes"
@@ -47372,40 +47372,40 @@
  {"DARK SUPREMACY"
   [{:name "Born from Tears",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-05 Born from Tears.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-05 Born from Tears.mp3"}
    {:name "Flames of the End",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-01 Flames of the End.mp3",
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-01 Flames of the End.mp3",
     :rating 60,
     :play-count 1}
    {:name "Endless Horizon",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-10 Endless Horizon.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-10 Endless Horizon.mp3"}
    {:name "Creature in the Dark",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-02 Creature in the Dark.mp3",
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-02 Creature in the Dark.mp3",
     :rating 60,
     :play-count 1}
    {:name "Sadistic Soul",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-08 Sadistic Soul.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-08 Sadistic Soul.mp3"}
    {:name "Axis of Hate",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-04 Axis of Hate.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-04 Axis of Hate.mp3"}
    {:name "In the Moonlight",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-06 In the Moonlight.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-06 In the Moonlight.mp3"}
    {:name "Cloud of Sorrow",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-03 Cloud of Sorrow.mp3",
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-03 Cloud of Sorrow.mp3",
     :rating 60,
     :play-count 1}
    {:name "My Twisted Romance",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-07 My Twisted Romance.mp3"}
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-07 My Twisted Romance.mp3"}
    {:name "Dark Supremacy",
     :location
-    "file:///Users/iain/Music/Collection/DevilWithin/DARK SUPREMACY/1-09 Dark Supremacy.mp3"}]},
+    "file:///Users/iain/Music/Collection/DevilWithin/DARK-SUPREMACY/1-09 Dark Supremacy.mp3"}]},
  "Jazz Dazzlers"
  {"Yeahman 2"
   [{:name "The Makeba",
@@ -49101,89 +49101,89 @@
   "Joe's Garage "
   [{:name "Fembot in a Wet T-Shirt",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/05 Fembot in a Wet T-Shirt.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/05Fembot_in_a_Wet_T-Shirt.mp3",
     :rating 40,
     :play-count 1}
    {:name "The Central Scrutinizer",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/01 The Central Scrutinizer.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/01The_Central_Scrutinizer.mp3",
     :rating 60,
     :play-count 3}
    {:name "Joe's Garage",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/02 Joe's Garage.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/02Joe's_Garage.mp3",
     :rating 100,
     :play-count 7}
    {:name "A Little Green Rosetta",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/19 A Little Green Rosetta.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/19A_Little_Green_Rosetta.mp3",
     :rating 80}
    {:name "Stick It Out",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/11 Stick It Out.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/11Stick_It_Out.mp3",
     :rating 40,
     :play-count 1}
    {:name "Outside Now",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/15 Outside Now.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/15Outside_Now.mp3",
     :rating 60,
     :play-count 2}
    {:name "Packard Goose",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/17 Packard Goose.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/17Packard_Goose.mp3",
     :rating 60}
    {:name "Scrutinizer Postlude",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/09 Scrutinizer Postlude.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/09Scrutinizer_Postlude.mp3",
     :rating 40,
     :play-count 3}
    {:name "Sy Borg",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/12 Sy Borg.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/12Sy_Borg.mp3",
     :rating 60,
     :play-count 1}
    {:name "Catholic Girls",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/03 Catholic Girls.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/03Catholic_Girls.mp3",
     :rating 40,
     :play-count 1}
    {:name "He Used To Cut The Grass",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/16 He Used To Cut The Grass.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/16He_Used_To_Cut_The_Grass.mp3",
     :rating 80,
     :play-count 1}
    {:name "Crew Slut",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/04 Crew Slut.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/04Crew_Slut.mp3",
     :rating 40,
     :play-count 1}
    {:name "Why Does It Hurt When I Pee?",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/07 Why Does It Hurt When I Pee_.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/07Why_Does_It_Hurt_When_I_Pee_.mp3",
     :rating 100,
     :play-count 9}
    {:name "Dong Work For Yuda",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/13 Dong Work For Yuda.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/13Dong_Work_For_Yuda.mp3",
     :rating 60,
     :play-count 1}
    {:name "Lucille Has Messed My Mind Up",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/08 Lucille Has Messed My Mind Up.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/08Lucille_Has_Messed_My_Mind_Up.mp3",
     :rating 40,
     :play-count 2}
    {:name "Watermelon In Easter Hay",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/18 Watermelon In Easter Hay.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/18Watermelon_In_Easter_Hay.mp3",
     :rating 80}
    {:name "A Token Of My Extreme",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/10 A Token Of My Extreme.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/10A_Token_Of_My_Extreme.mp3",
     :rating 60,
     :play-count 2}
    {:name "On The Bus",
     :location
-    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/06 On The Bus.mp3",
+    "file:///Users/iain/Music/Collection/FrankZappa/Joes-Garage/06On_The_Bus.mp3",
     :rating 60,
     :play-count 1}],
   "Hot Rats"
@@ -50145,32 +50145,32 @@
  {"Phanerozoic I: Palaeozoic"
   [{:name "The Cambrian Explosion",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/01 The Cambrian Explosion.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/01 The Cambrian Explosion.mp3",
     :rating 60,
     :play-count 6}
    {:name "Silurian: Age of Sea Scorpions",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/04 Silurian_ Age of Sea Scorpions.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/04 Silurian_ Age of Sea Scorpions.mp3",
     :rating 60,
     :play-count 3}
    {:name "Cambrian II: Eternal Recurrence",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/02 Cambrian II_ Eternal Recurrence.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/02 Cambrian II_ Eternal Recurrence.mp3",
     :rating 60,
     :play-count 6}
    {:name "Ordovicium: The Glaciation of Gondwana",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/03 Ordovicium_ The Glaciation of Gondwana.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/03 Ordovicium_ The Glaciation of Gondwana.mp3",
     :rating 60,
     :play-count 4}
    {:name "Permian: The Great Dying",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/07 Permian_ The Great Dying.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/07 Permian_ The Great Dying.mp3",
     :rating 60,
     :play-count 3}
    {:name "The Carboniferous Rainforest Collapse",
     :location
-    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic I_ Palaeozoic/06 The Carboniferous Rainforest Collapse.mp3",
+    "file:///Users/iain/Music/Collection/TheOcean/Phanerozoic-I_-Palaeozoic/06 The Carboniferous Rainforest Collapse.mp3",
     :rating 60,
     :play-count 2}]},
  "Jonathan Stout and his Campus Five"
@@ -50285,68 +50285,68 @@
  {"Harvest Storm"
   [{:name "'Si Do Mhaimeo I",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/08 'Si Do Mhaimeo I.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/08 'Si Do Mhaimeo I.mp3",
     :rating 40,
     :play-count 2}
    {:name "The Snowy Path",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/06 The Snowy Path.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/06 The Snowy Path.mp3",
     :rating 40,
     :play-count 2}
    {:name "Donal Agus Morag",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/02 Donal Agus Morag.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/02 Donal Agus Morag.mp3",
     :rating 40,
     :play-count 2}
    {:name "Drowsy Maggie   Rakish Paddy   Harvest Storm",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/07 Drowsy Maggie   Rakish Paddy   Harvest Storm.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/07 Drowsy Maggie   Rakish Paddy   Harvest Storm.mp3",
     :rating 60,
     :play-count 2}
    {:name "The Rosses Highlands",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/10 The Rosses Highlands.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/10 The Rosses Highlands.mp3",
     :rating 40,
     :play-count 2}
    {:name "King of the Pipers",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/03 King of the Pipers.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/03 King of the Pipers.mp3",
     :rating 40,
     :play-count 2}
    {:name "Séamus O'Shanahan's   Walking in Liffey Street",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/04 Seamus O'Shanahan's   Walking in Liffey Street.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/04 Seamus O'Shanahan's   Walking in Liffey Street.mp3",
     :rating 60,
     :play-count 2}
    {:name
     "Pretty Peg   New Ships A Sailing   The Bird's Nest   The Man From Bundoran",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/01 Pretty Peg   New Ships A Sailing   The Bird's Nest   The Man From Bundoran.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/01 Pretty Peg   New Ships A Sailing   The Bird's Nest   The Man From Bundoran.mp3",
     :rating 60,
     :play-count 1}
    {:name "Mo Choill",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/05 Mo Choill.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/05 Mo Choill.mp3",
     :rating 40,
     :play-count 2}
    {:name "McFarley's   Mill na Máidi",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/09 McFarley's   Mill na Maidi.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/09 McFarley's   Mill na Maidi.mp3",
     :rating 60,
     :play-count 2}
    {:name "Dobbin's Flowery Vale",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/13 Dobbin's Flowery Vale.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/13 Dobbin's Flowery Vale.mp3",
     :rating 60,
     :play-count 2}
    {:name "Bog An Lochain   Margaree Reel   The Humours of Westport",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/12 Bog An Lochain   Margaree Reel   The Humours of Westport.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/12 Bog An Lochain   Margaree Reel   The Humours of Westport.mp3",
     :rating 40,
     :play-count 2}
    {:name "A Nobleman's Wedding",
     :location
-    "file:///Users/iain/Music/Collection/Altan/Harvest Storm/11 A Nobleman's Wedding.mp3",
+    "file:///Users/iain/Music/Collection/Altan/Harvest-Storm/11 A Nobleman's Wedding.mp3",
     :rating 40,
     :play-count 2}]},
  "Riva Feat. Dannii Minogue"
@@ -50797,108 +50797,108 @@
  {"A Million Degrees"
   [{:name "You Are So Beautiful",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-05 You Are So Beautiful.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-05 You Are So Beautiful.mp3",
     :rating 40,
     :play-count 1}
    {:name "We Are Together",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-07 We Are Together.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-07 We Are Together.mp3",
     :rating 60,
     :play-count 1}
    {:name "Spitfire",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-10 Spitfire.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-10 Spitfire.mp3",
     :rating 60,
     :play-count 1}
    {:name "War",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-01 War.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-01 War.mp3",
     :rating 60,
     :play-count 1}
    {:name "Lead You On (feat. Margaux Bossieux)",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-04 Lead You On (feat. Margaux Bossieux).mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-04 Lead You On (feat. Margaux Bossieux).mp3",
     :rating 40,
     :play-count 1}
    {:name "A Million Degrees",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-03 A Million Degrees.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-03 A Million Degrees.mp3",
     :rating 60,
     :play-count 1}
    {:name "1234 (feat. Benjamin Kowalewicz)",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-02 1234 (feat. Benjamin Kowalewicz).mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-02 1234 (feat. Benjamin Kowalewicz).mp3",
     :rating 60,
     :play-count 1}
    {:name "Hide And Seek",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-06 Hide And Seek.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-06 Hide And Seek.mp3",
     :rating 40,
     :play-count 1}
    {:name "Eyes Fade Away",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-11 Eyes Fade Away.mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-11 Eyes Fade Away.mp3",
     :rating 60,
     :play-count 1}
    {:name "Let's Go (feat. TILL LINDEMANN)",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-08 Let's Go (feat. TILL LINDEMANN).mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-08 Let's Go (feat. TILL LINDEMANN).mp3",
     :rating 40,
     :play-count 1}
    {:name "I'm Not Afraid (feat. Cardinal Copia)",
     :location
-    "file:///Users/iain/Music/Collection/Emigrate/A Million Degrees/1-09 I'm Not Afraid (feat. Cardinal Copia).mp3",
+    "file:///Users/iain/Music/Collection/Emigrate/A-Million-Degrees/1-09 I'm Not Afraid (feat. Cardinal Copia).mp3",
     :rating 60,
     :play-count 1}]},
  "Bryan Eckermann"
  {"The 7th Sin"
   [{:name "Sold my Soul",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/07 - Sold my Soul.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/07 - Sold my Soul.mp3",
     :rating 60,
     :play-count 1}
    {:name "Succubus",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/01 - Succubus.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/01 - Succubus.mp3",
     :rating 60,
     :play-count 1}
    {:name "Tales of the Past",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/03 - Tales of the Past.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/03 - Tales of the Past.mp3",
     :rating 60,
     :play-count 1}
    {:name "Same Old Song",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/09 - Same Old Song.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/09 - Same Old Song.mp3",
     :rating 60,
     :play-count 1}
    {:name "Morbid Beauty",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/02 - Morbid Beauty.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/02 - Morbid Beauty.mp3",
     :rating 40,
     :play-count 1}
    {:name "Nocternity",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/08 - Nocternity.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/08 - Nocternity.mp3",
     :rating 60,
     :play-count 1}
    {:name "Pain or Death",
     :location
-    "file:///Users/iain/Music/Collection/Bryan Eckermann/The 7th Sin/05 - Pain or Death.mp3",
+    "file:///Users/iain/Music/Collection/Bryan Eckermann/The-7th-Sin/05 - Pain or Death.mp3",
     :rating 40,
     :play-count 1}
    {:name "Night Comes Down",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/10 - Night Comes Down.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/10 - Night Comes Down.mp3",
     :play-count 1}
    {:name "Graveyard Hymn",
     :location
-    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The 7th Sin/04 - Graveyard Hymn.mp3",
+    "file:///Users/iain/Music/Collection/Bryan-Eckermann/The-7th-Sin/04 - Graveyard Hymn.mp3",
     :rating 60,
     :play-count 1}
    {:name "Flesh and Steel",
     :location
-    "file:///Users/iain/Music/Collection/Bryan Eckermann/The 7th Sin/06 - Flesh and Steel.mp3",
+    "file:///Users/iain/Music/Collection/Bryan Eckermann/The-7th-Sin/06 - Flesh and Steel.mp3",
     :rating 60,
     :play-count 1}]},
  "Cute Is What We Aim For"
@@ -50915,62 +50915,62 @@
  {"Extraordinary Machine"
   [{:name "Not About Love",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/11 Not About Love.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/11 Not About Love.mp3",
     :rating 40,
     :play-count 1}
    {:name "Window",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/07 Window.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/07 Window.mp3",
     :rating 40,
     :play-count 1}
    {:name "Red Red Red",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/10 Red Red Red.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/10 Red Red Red.mp3",
     :rating 40,
     :play-count 1}
    {:name "Waltz (Better Than Fine)",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/12 Waltz (Better Than Fine).mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/12 Waltz (Better Than Fine).mp3",
     :rating 40,
     :play-count 1}
    {:name "Get Him Back",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/02 Get Him Back.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/02 Get Him Back.mp3",
     :rating 40,
     :play-count 1}
    {:name "Please Please Please",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/09 Please Please Please.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/09 Please Please Please.mp3",
     :rating 40,
     :play-count 1}
    {:name "Better Version Of Me",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/04 Better Version Of Me.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/04 Better Version Of Me.mp3",
     :rating 40,
     :play-count 1}
    {:name "Parting Gift",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/06 Parting Gift.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/06 Parting Gift.mp3",
     :rating 40,
     :play-count 1}
    {:name "O' Sailor",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/03 O' Sailor.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/03 O' Sailor.mp3",
     :rating 40,
     :play-count 1}
    {:name "Oh Well",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/08 Oh Well.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/08 Oh Well.mp3",
     :rating 40,
     :play-count 1}
    {:name "Extraordinary Machine",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/01 Extraordinary Machine.mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/01 Extraordinary Machine.mp3",
     :rating 40,
     :play-count 1}
    {:name "Tymps (The Sick In The Head Song)",
     :location
-    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary Machine/05 Tymps (The Sick In The Head Song).mp3",
+    "file:///Users/iain/Music/Collection/FionaApple/Extraordinary-Machine/05 Tymps (The Sick In The Head Song).mp3",
     :rating 40,
     :play-count 1}]},
  "Jools Holland & His Rhythm Blues Orchestra"
@@ -51658,53 +51658,53 @@
  {"Absolute Dissent"
   [{:name "Honour The Fire",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/09 Honour The Fire.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/09 Honour The Fire.mp3",
     :play-count 1}
    {:name "The Raven King",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/08 The Raven King.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/08 The Raven King.mp3",
     :play-count 1}
    {:name "Fresh Fever From The Skies",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/03 Fresh Fever From The Skies.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/03 Fresh Fever From The Skies.mp3",
     :play-count 1}
    {:name "The Great Cull",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/02 The Great Cull.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/02 The Great Cull.mp3",
     :rating 60,
     :play-count 1}
    {:name "Here Comes The Singularity",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/11 Here Comes The Singularity.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/11 Here Comes The Singularity.mp3",
     :play-count 1}
    {:name "Endgame",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/07 Endgame.mp3"}
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/07 Endgame.mp3"}
    {:name "Depthcharge",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/10 Depthcharge.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/10 Depthcharge.mp3",
     :play-count 1}
    {:name "Ghost Of Ladbroke Grove",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/12 Ghost Of Ladbroke Grove.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/12 Ghost Of Ladbroke Grove.mp3",
     :play-count 1}
    {:name "This World Hell",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/06 This World Hell.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/06 This World Hell.mp3",
     :rating 60,
     :play-count 1}
    {:name "European Super State",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/05 European Super State.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/05 European Super State.mp3",
     :play-count 1}
    {:name "In Excelsis",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/04 In Excelsis.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/04 In Excelsis.mp3",
     :rating 40,
     :play-count 1}
    {:name "01 - absolute dissent",
     :location
-    "file:///Users/iain/Music/Collection/KillingJoke/Absolute Dissent/01 - absolute dissent.mp3",
+    "file:///Users/iain/Music/Collection/KillingJoke/Absolute-Dissent/01 - absolute dissent.mp3",
     :rating 60,
     :play-count 1}],
   "KERRANG! Best Of 2003"
@@ -52160,75 +52160,75 @@
  {"Songs About Jane"
   [{:name "Must Get Out",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/07 Must Get Out.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/07-Must_Get_Out.mp3",
     :play-count 2}
    {:name "Sweetest Goodbye",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/12 Sweetest Goodbye.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/12-Sweetest_Goodbye.mp3",
     :rating 20,
     :play-count 5}
    {:name "The Sun",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/06 The Sun.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/06-The_Sun.mp3",
     :rating 40,
     :play-count 8}
    {:name "Through With You",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/10 Through With You.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/10-Through_With_You.mp3",
     :rating 60,
     :play-count 4}
    {:name "Not Coming Home",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/11 Not Coming Home.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/11-Not_Coming_Home.mp3",
     :rating 60,
     :play-count 6}
    {:name "Sunday Morning",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/08 Sunday Morning.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/08-Sunday_Morning.mp3",
     :play-count 2}
    {:name "Shiver",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/03 Shiver.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/03-Shiver.mp3",
     :play-count 2}
    {:name "Secret",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/09 Secret.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/09-Secret.mp3",
     :play-count 2}
    {:name "Tangled",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/05 Tangled.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/05-Tangled.mp3",
     :rating 40,
     :play-count 6}
    {:name "She Will Be Loved",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/04 She Will Be Loved.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/04-She_Will_Be_Loved.mp3",
     :play-count 2}
    {:name "This Love",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/02 This Love.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/02-This_Love.mp3",
     :play-count 2}
    {:name "Harder To Breathe",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Songs About Jane/01 Harder To Breathe.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Songs-About-Jane/01_Harder_To_Breathe.mp3",
     :rating 80,
     :play-count 43}],
   "Live Friday The 13th"
   [{:name "Through With You",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Live Friday The 13th/02 Through With You.mp3"}
+    "file:///Users/iain/Music/Collection/Maroon5/Live-Friday-The-13th/02 Through With You.mp3"}
    {:name "Shiver",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Live Friday The 13th/01 Shiver.mp3"}
+    "file:///Users/iain/Music/Collection/Maroon5/Live-Friday-The-13th/01 Shiver.mp3"}
    {:name "Tangled",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Live Friday The 13th/03 Tangled.mp3"}
+    "file:///Users/iain/Music/Collection/Maroon5/Live-Friday-The-13th/03 Tangled.mp3"}
    {:name "The Sun",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Live Friday The 13th/05 The Sun.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Live-Friday-The-13th/05 The Sun.mp3",
     :rating 20}
    {:name "Harder To Breathe",
     :location
-    "file:///Users/iain/Music/Collection/Maroon5/Live Friday The 13th/04 Harder To Breathe.mp3",
+    "file:///Users/iain/Music/Collection/Maroon5/Live-Friday-The-13th/04 Harder To Breathe.mp3",
     :rating 60,
     :play-count 1}]},
  "Fear Before The March Of Flames"
@@ -59259,30 +59259,30 @@
  {"Berdreyminn"
   [{:name "Silfur-Refur",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/01 Silfur-Refur.mp3",
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/01 Silfur-Refur.mp3",
     :rating 60,
     :play-count 2}
    {:name "Naros",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/04 Naros.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/04 Naros.mp3"}
    {:name "Blafjall",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/08 Blafjall.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/08 Blafjall.mp3"}
    {:name "Dyrafjor?ur",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/06 Dyrafjor_ur.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/06 Dyrafjor_ur.mp3"}
    {:name "Hvit S?ng",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/05 Hvit S_ng.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/05 Hvit S_ng.mp3"}
    {:name "Ambatt",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/07 Ambatt.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/07 Ambatt.mp3"}
    {:name "Isafold",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/02 Isafold.mp3"}
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/02 Isafold.mp3"}
    {:name "Hula",
     :location
-    "file:///Users/iain/Music/Collection/SOLSTAFIR/Berdreyminn/03 Hula.mp3"}]},
+    "file:///Users/iain/Music/Collection/Solstafir/Berdreyminn/03 Hula.mp3"}]},
  "Meathook Seed"
  {"Metal Hammer - Noise Inc Volume 2"
   [{:name "Elemental",
@@ -59923,42 +59923,42 @@
  {"Hazi"
   [{:name "02. Shiganshina",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/02. Shiganshina.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/02. Shiganshina.mp3",
     :rating 40,
     :play-count 1}
    {:name "06. Gure Garaia",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/06. Gure Garaia.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/06. Gure Garaia.mp3",
     :rating 60,
     :play-count 4}
    {:name "03. Betiko",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/03. Betiko.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/03. Betiko.mp3",
     :rating 40,
     :play-count 1}
    {:name "08. Alepo",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/08. Alepo.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/08. Alepo.mp3",
     :rating 40,
     :play-count 4}
    {:name "05. Taiki Tupa Tuke",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/05. Taiki Tupa Tuke.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/05. Taiki Tupa Tuke.mp3",
     :rating 40,
     :play-count 1}
    {:name "01. Dagokidan Tokia",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/01. Dagokidan Tokia.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/01. Dagokidan Tokia.mp3",
     :rating 40,
     :play-count 1}
    {:name "07. Uhinak",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/07. Uhinak.mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/07. Uhinak.mp3",
     :rating 60,
     :play-count 4}
    {:name "04. Piztia (feat. Noa Voll Damn)",
     :location
-    "file:///Users/iain/Music/Collection/UnknownArtist/Unknown-Album/04. Piztia (feat. Noa Voll Damn).mp3",
+    "file:///Users/iain/Music/Collection/Gabezia/Hazi/04. Piztia (feat. Noa Voll Damn).mp3",
     :rating 40,
     :play-count 1}]},
  "Mira Calix"
