@@ -20597,62 +20597,62 @@
  {"I Oughtta Give You A Shot In The Head"
   [{:name "Bossa Nova",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/02 Bossa Nova.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/02 Bossa Nova.mp3",
     :rating 40,
     :play-count 2}
    {:name "Arlington Girl",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/04 Arlington Girl.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/04 Arlington Girl.mp3",
     :rating 40,
     :play-count 1}
    {:name "Cannibal King",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/01 Cannibal King.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/01 Cannibal King.mp3",
     :rating 40,
     :play-count 1}
    {:name "Oh, No",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/05 Oh, No.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/05 Oh, No.mp3",
     :rating 40,
     :play-count 1}
    {:name "Goodnight Moon",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/07 Goodnight Moon.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/07 Goodnight Moon.mp3",
     :rating 100,
     :play-count 34}
    {:name "Pimp",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/09 Pimp.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/09 Pimp.mp3",
     :rating 40,
     :play-count 2}
    {:name "Arrivederci",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/12 Arrivederci.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/12 Arrivederci.mp3",
     :rating 40,
     :play-count 2}
    {:name "Daring Lousy Guy",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/03 Daring Lousy Guy.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/03 Daring Lousy Guy.mp3",
     :rating 40,
     :play-count 1}
    {:name "Ash Wednesday",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/11 Ash Wednesday.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/11 Ash Wednesday.mp3",
     :rating 40,
     :play-count 2}
    {:name "Lunch",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/06 Lunch.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/06 Lunch.mp3",
     :rating 40,
     :play-count 1}
    {:name "Idiot Waltz",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/10 Idiot Waltz.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/10 Idiot Waltz.mp3",
     :rating 40,
     :play-count 2}
    {:name "I Don't Care",
     :location
-    "file:///Users/iain/Music/Collection/Shivaree/I Oughtta Give You A Shot In The Head/08 I Don't Care.mp3",
+    "file:///Users/iain/Music/Collection/Shivaree/I-Oughtta-Give-You-A-Shot-In-The-Head/08 I Don't Care.mp3",
     :rating 40,
     :play-count 2}]},
  "Stone Blue Electric"
@@ -23667,7 +23667,7 @@
  {"To All New Arrivals"
   [{:name "Music Matters",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/03 Music Matters.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/03 Music Matters.mp3",
     :play-count 4}]},
  "Bola"
  {"Fyuti"
@@ -29975,7 +29975,7 @@
   "Phantom Days"
   [{:name "Phantom Days",
     :location
-    "file:///Users/iain/Music/Collection/Dark-Tranquillity/Phantom Days/01 - Phantom Days.mp3",
+    "file:///Users/iain/Music/Collection/Dark-Tranquillity/Phantom-Days/01 - Phantom Days.mp3",
     :rating 40,
     :play-count 1}]},
  "Kansas"
@@ -30177,12 +30177,12 @@
   "The Congregation"
   [{:name "The Price",
     :location
-    "file:///Users/iain/Music/Collection/Leprous/The Congregation/01. The Price.mp3",
+    "file:///Users/iain/Music/Collection/Leprous/The-Congregation/01. The Price.mp3",
     :rating 60,
     :play-count 2}
    {:name "Third Law",
     :location
-    "file:///Users/iain/Music/Collection/Leprous/The Congregation/02. Third Law.mp3",
+    "file:///Users/iain/Music/Collection/Leprous/The-Congregation/02. Third Law.mp3",
     :rating 60,
     :play-count 1}],
   "Malina"
@@ -30249,7 +30249,7 @@
   "Angel (Massive Attack cover)(Single)"
   [{:name "Angel (Massive Attack cover)",
     :location
-    "file:///Users/iain/Music/Collection/Leprous/Angel (Massive Attack cover)(Single)/01 Angel (Massive Attack cover).mp3",
+    "file:///Users/iain/Music/Collection/Leprous/Angel-Massive-Attack-coverSingle/01 Angel (Massive Attack cover).mp3",
     :rating 60,
     :play-count 1}]},
  "Coheed and Cambria"
@@ -30332,7 +30332,7 @@
  {"Go Be Forgotten"
   [{:name "This Forest For Which We Have Killed",
     :location
-    "file:///Users/iain/Music/Collection/Krallice/Go Be Forgotten/01 This Forest For Which We Have Killed.mp3",
+    "file:///Users/iain/Music/Collection/Krallice/Go-Be-Forgotten/01 This Forest For Which We Have Killed.mp3",
     :rating 40,
     :play-count 1}]},
  "Jonathan Davis"
@@ -30421,11 +30421,11 @@
   "Surrealistic Pillow"
   [{:name "She Has Funny Cars",
     :location
-    "file:///Users/iain/Music/Collection/JeffersonAirplane/Surrealistic Pillow/Jefferson Airplane - 1967 - Surrealistic Pillow - 01 - She Has Funny Cars.mp3",
+    "file:///Users/iain/Music/Collection/JeffersonAirplane/Surrealistic-Pillow/Jefferson Airplane - 1967 - Surrealistic Pillow - 01 - She Has Funny Cars.mp3",
     :play-count 1}
    {:name "White Rabbit",
     :location
-    "file:///Users/iain/Music/Collection/JeffersonAirplane/Surrealistic Pillow/Jefferson Airplane - 1967 - Surrealistic Pillow - 10 - White Rabbit.mp3",
+    "file:///Users/iain/Music/Collection/JeffersonAirplane/Surrealistic-Pillow/Jefferson Airplane - 1967 - Surrealistic Pillow - 10 - White Rabbit.mp3",
     :rating 60,
     :play-count 1}]},
  "Dimmu Borgir"
@@ -30567,12 +30567,12 @@
   "Play With Bootsy: A Tribute to the Funk"
   [{:name "Funkship",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/Play With Bootsy_ A Tribute to the Funk/13 Funkship.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/Play-With-Bootsy_-A-Tribute-to-the-Funk/13 Funkship.mp3",
     :rating 40,
     :play-count 2}
    {:name "Inner-Planetary-Funksmanship",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/Play With Bootsy_ A Tribute to the Funk/01 Inner-Planetary-Funksmanship.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/Play-With-Bootsy_-A-Tribute-to-the-Funk/01 Inner-Planetary-Funksmanship.mp3",
     :rating 20}]},
  "MC Solaar"
  {"Paradisiaque"
@@ -30608,53 +30608,53 @@
  {"For Emma, Forever Ago"
   [{:name "Flume",
     :location
-    "file:///Users/iain/Music/Collection/BonIver/For Emma, Forever Ago/01 Flume.mp3",
+    "file:///Users/iain/Music/Collection/BonIver/For-Emma-Forever-Ago/01 Flume.mp3",
     :play-count 1}],
   "Blood Bank EP"
   [{:name "Blood Bank",
     :location
-    "file:///Users/iain/Music/Collection/BonIver/Blood Bank EP/01 Blood Bank.mp3",
+    "file:///Users/iain/Music/Collection/BonIver/Blood-Bank-EP/01 Blood Bank.mp3",
     :rating 40}]},
  "The Fatima Mansions"
  {"Valhalla Avenue"
   [{:name "North Atlantic Wind",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/05 North Atlantic Wind.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/05 North Atlantic Wind.mp3",
     :rating 40,
     :play-count 3}
    {:name "Be Dead",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/12 Be Dead.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/12 Be Dead.mp3",
     :play-count 1}
    {:name "Evil Man",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/01 Evil Man.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/01 Evil Man.mp3",
     :rating 60,
     :play-count 3}
    {:name "1000%",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/04 1000%.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/04 1000%.mp3",
     :play-count 1}
    {:name "C7/Breakfast With Bandog",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/10 C7_Breakfast With Bandog.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/10 C7_Breakfast With Bandog.mp3",
     :play-count 1}
    {:name "Go Home Bible Mike",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/07 Go Home Bible Mike.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/07 Go Home Bible Mike.mp3",
     :rating 40,
     :play-count 1}
    {:name "Perfumes Of Paradise",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/08 Perfumes Of Paradise.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/08 Perfumes Of Paradise.mp3",
     :play-count 1}
    {:name "Ray Of Hope, Hoe Of Rape",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/11 Ray Of Hope, Hoe Of Rape.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/11 Ray Of Hope, Hoe Of Rape.mp3",
     :play-count 2}
    {:name "Greyhair",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla Avenue/09 Greyhair.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Valhalla-Avenue/09 Greyhair.mp3",
     :play-count 1}],
   "Come Back My Children"
   [{:name "Bishop Of Babel",
@@ -30688,21 +30688,21 @@
   "Evil Man"
   [{:name "Evil Man II",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil Man/04 Evil Man II.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil-Man/04 Evil Man II.mp3",
     :play-count 3}
    {:name "Chemical Cosh (Scream Mix)",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil Man/03 Chemical Cosh (Scream Mix).mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil-Man/03 Chemical Cosh (Scream Mix).mp3",
     :rating 40,
     :play-count 10}
    {:name "Blues For Ceausescu (Only Solution Mix)",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil Man/02 Blues For Ceausescu (Only Solution Mix).mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil-Man/02 Blues For Ceausescu (Only Solution Mix).mp3",
     :rating 40,
     :play-count 3}
    {:name "Evil Man",
     :location
-    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil Man/01 Evil Man.mp3",
+    "file:///Users/iain/Music/Collection/TheFatimaMansions/Evil-Man/01 Evil Man.mp3",
     :rating 60,
     :play-count 15}]},
  "Portishead"
@@ -30748,117 +30748,117 @@
  {"The Ultimate Collection (Disc 1)"
   [{:name "Try (Just A Little Bit Harder)",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/06 Try (Just A Little Bit Harder).mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/06 Try (Just A Little Bit Harder).mp3",
     :play-count 1}
    {:name "Me And Bobby McGee",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/01 Me And Bobby McGee.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/01 Me And Bobby McGee.mp3",
     :play-count 2}
    {:name "A Woman Left Lonely",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/12 A Woman Left Lonely.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/12 A Woman Left Lonely.mp3",
     :play-count 1}
    {:name "Ball And Chain",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/08 Ball And Chain.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/08 Ball And Chain.mp3",
     :play-count 3}
    {:name "I'll Drown In My Own Tears",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/09 I'll Drown In My Own Tears.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/09 I'll Drown In My Own Tears.mp3",
     :play-count 2}
    {:name "Piece Of My Heart",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 1)/04 Piece Of My Heart.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-1/04 Piece Of My Heart.mp3",
     :rating 40,
     :play-count 4}],
   "Greatest Hits"
   [{:name "Down On Me",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/06 Down On Me.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/06 Down On Me.mp3",
     :play-count 1}
    {:name "Mercedes Benz",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/12 Mercedes Benz.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/12 Mercedes Benz.mp3",
     :play-count 1}
    {:name "Summertime",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/02 Summertime.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/02 Summertime.mp3",
     :play-count 3}
    {:name "Cry Baby",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/04 Cry Baby.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/04 Cry Baby.mp3",
     :play-count 1}
    {:name "Maybe",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/11 Maybe.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/11 Maybe.mp3",
     :play-count 1}
    {:name "More Over",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/09 More Over.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/09 More Over.mp3",
     :play-count 3}
    {:name "Me And Bobby McGhee",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/05 Me And Bobby McGhee.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/05 Me And Bobby McGhee.mp3",
     :play-count 1}
    {:name "Get It While You Can",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/07 Get It While You Can.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/07 Get It While You Can.mp3",
     :play-count 1}
    {:name "Ball And Chain",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/10 Ball And Chain.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/10 Ball And Chain.mp3",
     :rating 40,
     :play-count 3}
    {:name "Bye, Bye Baby",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/08 Bye, Bye Baby.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/08 Bye, Bye Baby.mp3",
     :play-count 1}
    {:name "Piece Of My Heart",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/01 Piece Of My Heart.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/01 Piece Of My Heart.mp3",
     :play-count 4}
    {:name "Try (Just A Little Bit Harder)",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest Hits/03 Try (Just A Little Bit Harder).mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/Greatest-Hits/03 Try (Just A Little Bit Harder).mp3",
     :play-count 2}],
   "The Ultimate Collection (Disc 2)"
   [{:name "Trust Me",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 2)/10 Trust Me.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-2/10 Trust Me.mp3",
     :play-count 1}
    {:name "Half Moon",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 2)/07 Half Moon.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-2/07 Half Moon.mp3",
     :play-count 1}
    {:name "Farewell Song",
     :location
-    "file:///Users/iain/Music/Collection/JanisJoplin/The Ultimate Collection (Disc 2)/16 Farewell Song.mp3",
+    "file:///Users/iain/Music/Collection/JanisJoplin/The-Ultimate-Collection-Disc-2/16 Farewell Song.mp3",
     :play-count 1}]},
  "Battles"
  {"Juice B Crypts"
   [{:name "Fort Greene Park",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/05. Fort Greene Park.mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/05. Fort Greene Park.mp3",
     :play-count 1}
    {:name "Ambulance",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/01. Ambulance.mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/01. Ambulance.mp3",
     :play-count 1}
    {:name "Titanium 2 Step (Featuring Sal Principato)",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/06. Titanium 2 Step (Featuring Sal Principato).mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/06. Titanium 2 Step (Featuring Sal Principato).mp3",
     :play-count 1}
    {:name "A Loop So Nice...",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/02. A Loop So Nice....mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/02. A Loop So Nice....mp3",
     :play-count 1}
    {:name "They Played It Twice (Featuring Xenia Rubinos)",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/03. They Played It Twice (Featuring Xenia Rubinos).mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/03. They Played It Twice (Featuring Xenia Rubinos).mp3",
     :play-count 1}
    {:name "Sugar Foot (Featuring Jon Anderson and Prairie WWWW)",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Juice B Crypts/04. Sugar Foot (Featuring Jon Anderson and Prairie WWWW).mp3",
+    "file:///Users/iain/Music/Collection/Battles/Juice-B-Crypts/04. Sugar Foot (Featuring Jon Anderson and Prairie WWWW).mp3",
     :rating 40,
     :play-count 2}],
   "EP C / B EP"
@@ -30903,7 +30903,7 @@
     :play-count 4}
    {:name "Snare Hanger",
     :location
-    "file:///Users/iain/Music/Collection/Battles/Mirrored/Snare Hanger.mp3",
+    "file:///Users/iain/Music/Collection/Battles/Mirrored/Snare_Hanger.mp3",
     :rating 40,
     :play-count 2}
    {:name "Prismism",
@@ -30930,7 +30930,7 @@
  {"SOUL COUGHING - El Oso"
   [{:name "Circles",
     :location
-    "file:///Users/iain/Music/Collection/SoulCoughing/SOUL COUGHING - El Oso/03 Circles.mp3",
+    "file:///Users/iain/Music/Collection/SoulCoughing/SOUL-COUGHING---El-Oso/03 Circles.mp3",
     :rating 40,
     :play-count 5}]},
  "Spacehog"
@@ -31185,12 +31185,12 @@
  {"To All New Arrivals"
   [{:name "To All New Arrivals",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/07 To All New Arrivals.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/07 To All New Arrivals.mp3",
     :rating 40,
     :play-count 4}
    {:name "Bombs",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/01 Bombs.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/01 Bombs.mp3",
     :rating 60,
     :play-count 5}]},
  "Extreme"
@@ -31305,12 +31305,12 @@
  {"The Reverses"
   [{:name "Ghost at the End of the Rope",
     :location
-    "file:///Users/iain/Music/Collection/TerraTenebrosa/The Reverses/1-02 Ghost at the End of the Rope.mp3",
+    "file:///Users/iain/Music/Collection/TerraTenebrosa/The-Reverses/1-02 Ghost at the End of the Rope.mp3",
     :rating 40,
     :play-count 1}
    {:name "Makoria",
     :location
-    "file:///Users/iain/Music/Collection/TerraTenebrosa/The Reverses/1-01 Makoria.mp3",
+    "file:///Users/iain/Music/Collection/TerraTenebrosa/The-Reverses/1-01 Makoria.mp3",
     :play-count 1}]},
  "The Muppets"
  {nil
@@ -31483,7 +31483,7 @@
  {"Come Away With Me"
   [{:name "I've Got To See You Again",
     :location
-    "file:///Users/iain/Music/Collection/NorahJones/Come Away With Me/09 I've Got To See You Again.mp3",
+    "file:///Users/iain/Music/Collection/NorahJones/Come-Away-With-Me/09 I've Got To See You Again.mp3",
     :rating 60,
     :play-count 18}]},
  "Arnold Schoenberg"
@@ -31858,7 +31858,7 @@
  {"Undying Light"
   [{:name "Glass House",
     :location
-    "file:///Users/iain/Music/Collection/Fallujah/Undying Light/01 Glass House.mp3",
+    "file:///Users/iain/Music/Collection/Fallujah/Undying-Light/01 Glass House.mp3",
     :rating 40,
     :play-count 1}]},
  "Marissa Nadler"
@@ -32022,7 +32022,7 @@
  {"Annie Haslam"
   [{:name "Moonlight Shadow",
     :location
-    "file:///Users/iain/Music/Collection/AnnieHaslam/Annie Haslam/01 Moonlight Shadow.mp3",
+    "file:///Users/iain/Music/Collection/AnnieHaslam/Annie-Haslam/01 Moonlight Shadow.mp3",
     :rating 40,
     :play-count 2}]},
  "Dreamkeeper"
@@ -32293,7 +32293,7 @@
  {"Clayman (Re-Recorded) (Single)"
   [{:name "Clayman (Re-Recorded)",
     :location
-    "file:///Users/iain/Music/Collection/In-Flames/Clayman (Re-Recorded) (Single)/01 - Clayman (Re-Recorded).mp3",
+    "file:///Users/iain/Music/Collection/InFlames/Clayman-Re-Recorded-Single/01 - Clayman (Re-Recorded).mp3",
     :rating 40,
     :play-count 1}],
   "Best of Metal"
@@ -32419,7 +32419,7 @@
  {"To All New Arrivals"
   [{:name "Spiders, Crocodiles & Kryptonite",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/02 Spiders, Crocodiles & Kryptonite.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/02 Spiders, Crocodiles & Kryptonite.mp3",
     :play-count 4}]},
  "The Night Flight Orchestra"
  {"Aeromantic"
@@ -32442,12 +32442,12 @@
  {"It's Blitz!"
   [{:name "Runaway",
     :location
-    "file:///Users/iain/Music/Collection/YeahYeahYeahs/It's Blitz!/07 Runaway.mp3",
+    "file:///Users/iain/Music/Collection/YeahYeahYeahs/Its-Blitz!/07 Runaway.mp3",
     :rating 40,
     :play-count 1}
    {:name "Skeletons",
     :location
-    "file:///Users/iain/Music/Collection/YeahYeahYeahs/It's Blitz!/04 Skeletons.mp3",
+    "file:///Users/iain/Music/Collection/YeahYeahYeahs/Its-Blitz!/04 Skeletons.mp3",
     :rating 40,
     :play-count 1}],
   "Playlist (Purple)"
@@ -32460,13 +32460,13 @@
  {"Partie Traumatic"
   [{:name "I've Underestimated My Charm (Again)",
     :location
-    "file:///Users/iain/Music/Collection/BlackKids/Partie Traumatic/06 I've Underestimated My Charm (Again).mp3",
+    "file:///Users/iain/Music/Collection/BlackKids/Partie-Traumatic/06 I've Underestimated My Charm (Again).mp3",
     :rating 60}]},
  "Faithless Feat. Dido"
  {"To All New Arrivals"
   [{:name "Last This Day",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/06 Last This Day.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/06 Last This Day.mp3",
     :rating 40,
     :play-count 6}]},
  "Black Stone Cherry"
@@ -32540,7 +32540,7 @@
  {"To All New Arrivals"
   [{:name "A Kind Of Peace",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/09 A Kind Of Peace.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/09 A Kind Of Peace.mp3",
     :play-count 2}]},
  "The Sea Within"
  {"The Sea Within (Deluxe Edition)"
@@ -32595,13 +32595,13 @@
  {"No Wow"
   [{:name "The Good Ones",
     :location
-    "file:///Users/iain/Music/Collection/TheKills/No Wow/04 The Good Ones.mp3",
+    "file:///Users/iain/Music/Collection/TheKills/No-Wow/04 The Good Ones.mp3",
     :rating 60,
     :play-count 1}],
   "The Guardian - Free Compact Disc - 12-03-2005"
   [{:name "The Good Ones",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/The Guardian - Free Compact Disc - 12-03-2005/09 The Good Ones.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/The-Guardian---Free-Compact-Disc---12-03-2005/09 The Good Ones.mp3",
     :rating 60,
     :play-count 9}]},
  "Julie London"
@@ -32843,27 +32843,27 @@
   "Peter Gabriel (1)"
   [{:name "Excuse Me",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/04 Excuse Me.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/04 Excuse Me.mp3",
     :play-count 2}
    {:name "Modern Love",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/03 Modern Love.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/03 Modern Love.mp3",
     :play-count 1}
    {:name "Humdrum",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/05 Humdrum.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/05 Humdrum.mp3",
     :play-count 1}
    {:name "Solsbury Hill",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/02 Solsbury Hill.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/02 Solsbury Hill.mp3",
     :play-count 2}
    {:name "Here Comes The Flood",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/09 Here Comes The Flood.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/09 Here Comes The Flood.mp3",
     :play-count 1}
    {:name "Moribund The Burgermeister",
     :location
-    "file:///Users/iain/Music/Collection/PeterGabriel/Peter Gabriel (1)/01 Moribund The Burgermeister.mp3",
+    "file:///Users/iain/Music/Collection/PeterGabriel/Peter-Gabriel-1/01 Moribund The Burgermeister.mp3",
     :play-count 1}]},
  "The Replacements"
  {"Piece Of Cake: 20 Years Of Ryko"
@@ -33054,7 +33054,7 @@
   "Inhumane Harvest"
   [{:name "Inhumane Harvest",
     :location
-    "file:///Users/iain/Music/Collection/Cannibal-Corpse/Inhumane-Harvest/01. Inhumane Harvest.mp3",
+    "file:///Users/iain/Music/Collection/CannibalCorpse/Inhumane-Harvest/01. Inhumane Harvest.mp3",
     :rating 40,
     :play-count 1}],
   "Metal Hammer - Noise Inc Volume 2"
@@ -33066,19 +33066,19 @@
  {"All Aboard!"
   [{:name "Memory of You",
     :location
-    "file:///Users/iain/Music/Collection/IndigoSwing/All Aboard!/Memory of You.mp3",
+    "file:///Users/iain/Music/Collection/IndigoSwing/All-Aboard!/Memory of You.mp3",
     :play-count 1}
    {:name "Regular Joe",
     :location
-    "file:///Users/iain/Music/Collection/IndigoSwing/All Aboard!/Regular Joe.mp3",
+    "file:///Users/iain/Music/Collection/IndigoSwing/All-Aboard!/Regular Joe.mp3",
     :play-count 1}
    {:name "How Lucky Can One Guy Be?",
     :location
-    "file:///Users/iain/Music/Collection/IndigoSwing/All Aboard!/How Lucky Can One Guy Be_.mp3",
+    "file:///Users/iain/Music/Collection/IndigoSwing/All-Aboard!/How Lucky Can One Guy Be_.mp3",
     :play-count 1}
    {:name "(Today's the Day) I'm Glad I'm Not Dead",
     :location
-    "file:///Users/iain/Music/Collection/IndigoSwing/All Aboard!/02 (Today's the Day) I'm Glad I'm Not Dead.mp3",
+    "file:///Users/iain/Music/Collection/IndigoSwing/All-Aboard!/02 (Today's the Day) I'm Glad I'm Not Dead.mp3",
     :rating 60,
     :play-count 1}]},
  "Flying Cupid"
@@ -33326,12 +33326,12 @@
  {"I Do Not Want What I Haven't Got"
   [{:name "Nothing Compares 2 U",
     :location
-    "file:///Users/iain/Music/Collection/SineadOConnor/I Do Not Want What I Haven't Got/06 Nothing Compares 2 U.mp3",
+    "file:///Users/iain/Music/Collection/SineadOConnor/I-Do-Not-Want-What-I-Havent-Got/06 Nothing Compares 2 U.mp3",
     :rating 40,
     :play-count 1}
    {:name "Black Boys on Mopeds",
     :location
-    "file:///Users/iain/Music/Collection/SineadOConnor/I Do Not Want What I Haven't Got/05 Black Boys on Mopeds.mp3",
+    "file:///Users/iain/Music/Collection/SineadOConnor/I-Do-Not-Want-What-I-Havent-Got/05 Black Boys on Mopeds.mp3",
     :play-count 2}]},
  "Slipknot"
  {"Best of Metal"
@@ -33350,7 +33350,7 @@
  {"The Fire Within"
   [{:name "The Fire Within",
     :location
-    "file:///Users/iain/Music/Collection/EternitysEnd/The Fire Within/1-01 The Fire Within.mp3",
+    "file:///Users/iain/Music/Collection/EternitysEnd/The-Fire-Within/1-01 The Fire Within.mp3",
     :rating 20}]},
  "Blue Öyster Cult"
  {"The Symbol Remains"
@@ -33554,7 +33554,7 @@
  {"Electric Soup - The Singles Collection"
   [{:name "Like Wow - Wipeout",
     :location
-    "file:///Users/iain/Music/Collection/HoodooGurus/Electric Soup - The Singles Collection/18 Like Wow - Wipeout.mp3",
+    "file:///Users/iain/Music/Collection/HoodooGurus/Electric-Soup---The-Singles-Collection/18 Like Wow - Wipeout.mp3",
     :rating 40,
     :play-count 2}]},
  "tim blechmann"
@@ -33594,16 +33594,16 @@
  {"Found (Single)"
   [{:name "Crash & Burn",
     :location
-    "file:///Users/iain/Music/Collection/Span/Found (Single)/02 Crash & Burn.mp3",
+    "file:///Users/iain/Music/Collection/Span/Found-Single/02 Crash & Burn.mp3",
     :play-count 2}
    {:name "Found",
     :location
-    "file:///Users/iain/Music/Collection/Span/Found (Single)/01 Found.mp3",
+    "file:///Users/iain/Music/Collection/Span/Found-Single/01 Found.mp3",
     :rating 40,
     :play-count 4}
    {:name "Mental Surgury",
     :location
-    "file:///Users/iain/Music/Collection/Span/Found (Single)/03 Mental Surgury.mp3",
+    "file:///Users/iain/Music/Collection/Span/Found-Single/03 Mental Surgury.mp3",
     :play-count 3}]},
  "Dir en grey"
  {"The Insulated World"
@@ -33616,12 +33616,12 @@
  {"The Astonishing"
   [{:name "Dystopian Overture",
     :location
-    "file:///Users/iain/Music/Collection/DreamTheater/The Astonishing/1-02 Dystopian Overture.mp3",
+    "file:///Users/iain/Music/Collection/DreamTheater/The-Astonishing/1-02 Dystopian Overture.mp3",
     :rating 40,
     :play-count 1}
    {:name "Descent Of The Nomacs",
     :location
-    "file:///Users/iain/Music/Collection/DreamTheater/The Astonishing/1-01 Descent Of The Nomacs.mp3",
+    "file:///Users/iain/Music/Collection/DreamTheater/The-Astonishing/1-01 Descent Of The Nomacs.mp3",
     :rating 40,
     :play-count 1}],
   "Untethered Angel (Single)(2018)"
@@ -33694,7 +33694,7 @@
   "Paralyzed (Single)"
   [{:name "Paralyzed",
     :location
-    "file:///Users/iain/Music/Collection/DreamTheater/Paralyzed (Single)/1-01 Paralyzed.mp3",
+    "file:///Users/iain/Music/Collection/DreamTheater/Paralyzed-Single/1-01 Paralyzed.mp3",
     :rating 60,
     :play-count 1}]},
  "Theme"
@@ -33909,13 +33909,6 @@
   [{:name "Didn't I",
     :location
     "file:///Users/iain/Music/Collection/Compilations/Breaking-Bad/Didn't I.mp3",
-    :play-count 1}]},
- "Third Eye Blind"
- {"THIRD EYE BLIND"
-  [{:name "Semi-Charmed Life",
-    :location
-    "file:///Users/iain/Music/Collection/ThirdEyeBlind/THIRD EYE BLIND/03 Semi-Charmed Life.mp3",
-    :rating 40,
     :play-count 1}]},
  "Poets of the Fall"
  {"Ultraviolet"
@@ -34431,24 +34424,24 @@
  {"Anderson, Bruford, Wakeman,"
   [{:name "Brother Of Mine",
     :location
-    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson, Bruford, Wakeman,/03 Brother Of Mine.MP3",
+    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson-Bruford-Wakeman/03 Brother Of Mine.MP3",
     :rating 40,
     :play-count 1}
    {:name "Order Of The Universe",
     :location
-    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson, Bruford, Wakeman,/08 Order Of The Universe.MP3",
+    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson-Bruford-Wakeman/08 Order Of The Universe.MP3",
     :play-count 1}
    {:name "Themes",
     :location
-    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson, Bruford, Wakeman,/01 Themes.MP3",
+    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson-Bruford-Wakeman/01 Themes.MP3",
     :play-count 2}
    {:name "Birthright",
     :location
-    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson, Bruford, Wakeman,/04 Birthright.MP3",
+    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson-Bruford-Wakeman/04 Birthright.MP3",
     :play-count 1}
    {:name "Fist Of Fire",
     :location
-    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson, Bruford, Wakeman,/02 Fist Of Fire.MP3",
+    "file:///Users/iain/Music/Collection/AndersonBrufordWakemanHowe/Anderson-Bruford-Wakeman/02 Fist Of Fire.MP3",
     :play-count 1}]},
  "Kinesis"
  {"Reload"
@@ -34489,7 +34482,7 @@
  {"Live In Swing City: Swingin' With Duke"
   [{:name "Happy Go Lucky Local",
     :location
-    "file:///Users/iain/Music/Collection/LincolnCenterJazzOrchestra/Live In Swing City_ Swingin' With Duke/Happy Go Lucky Local.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/Random-Swing/Happy Go Lucky Local.mp3",
     :rating 40,
     :play-count 1}]},
  "Alex Skolnick Trio"
@@ -35764,19 +35757,19 @@
   "To All New Arrivals"
   [{:name "Emergency",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/11 Emergency.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/11 Emergency.mp3",
     :play-count 1}
    {:name "I Hope",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/05 I Hope.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/05 I Hope.mp3",
     :play-count 4}
    {:name "The Man In You",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/10 The Man In You.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/10 The Man In You.mp3",
     :play-count 1}
    {:name "Nate's Tune",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/04 Nate's Tune.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/04 Nate's Tune.mp3",
     :play-count 5}],
   "Saturday 3AM"
   [{:name "Killer's Lullaby (Nightmares On Wax Mix)",
@@ -40381,7 +40374,7 @@
  {"To All New Arrivals"
   [{:name "Hope & Glory",
     :location
-    "file:///Users/iain/Music/Collection/Compilations/To All New Arrivals/08 Hope & Glory.mp3",
+    "file:///Users/iain/Music/Collection/Compilations/To-All-New-Arrivals/08 Hope & Glory.mp3",
     :play-count 3}]},
  "Heat(Zzino & Sinesweeper Mix)"
  {"Eddie Halliwell Next Level Bosh!"
