@@ -1,12 +1,15 @@
 * itunes-emms
 
-A tool to assist in escaping iTunes while keeping years of play-counts, comments and ratings.
+Some tools to assist in escaping iTunes while keeping years of play-counts, comments and ratings.
 
 The function track-data is used to create an edn representation of the plist data which can then be accessed with commands like this:
 #+begin_src clojure
 (def track-data-edn (track-data "Library.xml"))
 (get-in track-data-edn ["Yes" "Going For The One"])
 #+end_src
-
 track-data will also take a list of fields to select the fields that will be included in the track data. This defaults to [:name :location :rating :play-count :comments]
-There are some more hints on use in the main.clj file, in the comment block at the end.
+This can then be used to populate the mpdev stats.db and the mpd sticker.db with playcounts ratings and comments.
+
+There is also a fn to add album covers in the sizes that emms uses to every album directory in the music collection.
+
+There are some more hints on use in the clj files, in the comment block at the end.
